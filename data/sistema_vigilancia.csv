@@ -1,0 +1,1877 @@
+﻿Fecha;Genero;Edad;Ciudad;Patogeno
+04/01/2021;Male;80;Sevilla;COVID
+04/01/2021;Female;74;Sevilla;COVID
+04/01/2021;Female;14;Sevilla;COVID
+04/01/2021;Male;28;Sevilla;COVID
+04/01/2021;Female;63;Sevilla;COVID
+04/01/2021;Female;66;Sevilla;COVID
+04/01/2021;Female;49;Zaragoza;COVID
+04/01/2021;Male;46;Zaragoza;COVID
+04/01/2021;Female;75;Zaragoza;COVID
+04/01/2021;Male;75;Zaragoza;COVID
+04/01/2021;Female;17;Zaragoza;COVID
+04/01/2021;Female;10;Zaragoza;COVID
+04/01/2021;Female;47;Oviedo;COVID
+04/01/2021;Female;42;Oviedo;COVID
+04/01/2021;Female;67;Oviedo;COVID
+04/01/2021;Female;52;Oviedo;COVID
+04/01/2021;Male;73;Oviedo;COVID
+04/01/2021;Female;19;Oviedo;COVID
+04/01/2021;Male;15;Palma_Mallorca, Illes;COVID
+04/01/2021;Female;37;Palma_Mallorca, Illes;COVID
+05/01/2021;Male;59;Palma_Mallorca, Illes;COVID
+05/01/2021;Male;45;Palma_Mallorca, Illes;COVID
+05/01/2021;Female;44;Palma_Mallorca, Illes;COVID
+05/01/2021;Female;13;Palma_Mallorca, Illes;COVID
+05/01/2021;Female;82;Las_Palmas;COVID
+05/01/2021;Male;66;Las_Palmas;COVID
+05/01/2021;Male;42;Las_Palmas;COVID
+05/01/2021;Female;47;Las_Palmas;COVID
+05/01/2021;Male;57;Las_Palmas;COVID
+05/01/2021;Male;75;Las_Palmas;COVID
+05/01/2021;Male;44;Santander;COVID
+05/01/2021;Male;64;Santander;COVID
+05/01/2021;Female;15;Santander;COVID
+05/01/2021;Female;13;Santander;COVID
+05/01/2021;Female;7;Santander;COVID
+05/01/2021;Male;63;Santander;COVID
+05/01/2021;Female;29;Valladolid;COVID
+05/01/2021;Female;36;Valladolid;COVID
+05/01/2021;Female;70;Valladolid;COVID
+05/01/2021;Female;39;Valladolid;COVID
+07/01/2021;Female;36;Valladolid;COVID
+07/01/2021;Female;9;Valladolid;COVID
+07/01/2021;Female;27;Toledo;COVID
+07/01/2021;Male;51;Toledo;COVID
+07/01/2021;Male;17;Toledo;COVID
+07/01/2021;Male;55;Toledo;COVID
+07/01/2021;Female;50;Toledo;COVID
+07/01/2021;Female;33;Toledo;COVID
+07/01/2021;Female;63;Barcelona;COVID
+07/01/2021;Female;71;Barcelona;COVID
+07/01/2021;Female;46;Barcelona;COVID
+07/01/2021;Male;60;Barcelona;COVID
+07/01/2021;Male;46;Barcelona;COVID
+07/01/2021;Female;52;Barcelona;COVID
+07/01/2021;Male;6;Valencia;COVID
+07/01/2021;Female;48;Valencia;COVID
+07/01/2021;Female;49;Valencia;COVID
+07/01/2021;Male;17;Valencia;COVID
+07/01/2021;Female;43;Valencia;COVID
+07/01/2021;Male;23;Valencia;COVID
+08/01/2021;Male;42;Mérida;COVID
+08/01/2021;Male;44;Mérida;COVID
+08/01/2021;Female;43;Mérida;COVID
+08/01/2021;Female;37;Mérida;COVID
+08/01/2021;Female;36;Mérida;COVID
+08/01/2021;Male;16;Mérida;COVID
+08/01/2021;Female;20;Santiago;COVID
+08/01/2021;Female;37;Santiago;COVID
+08/01/2021;Female;63;Santiago;COVID
+08/01/2021;Female;18;Santiago;COVID
+08/01/2021;Female;53;Santiago;COVID
+08/01/2021;Female;31;Santiago;COVID
+08/01/2021;Female;73;Madrid;COVID
+08/01/2021;Male;41;Madrid;COVID
+08/01/2021;Female;69;Madrid;COVID
+08/01/2021;Male;42;Madrid;COVID
+08/01/2021;Male;29;Madrid;COVID
+08/01/2021;Female;23;Madrid;COVID
+08/01/2021;Male;17;Murcia, Región de;COVID
+08/01/2021;Female;14;Murcia, Región de;COVID
+11/01/2021;Male;34;Murcia, Región de;COVID
+11/01/2021;Female;61;Murcia, Región de;COVID
+11/01/2021;Female;36;Murcia, Región de;COVID
+11/01/2021;Male;61;Murcia, Región de;COVID
+11/01/2021;Female;14;Navarra, Comunidad Foral de;COVID
+11/01/2021;Female;68;Navarra, Comunidad Foral de;COVID
+11/01/2021;Male;73;Navarra, Comunidad Foral de;COVID
+11/01/2021;Female;16;Navarra, Comunidad Foral de;COVID
+11/01/2021;Female;11;Navarra, Comunidad Foral de;COVID
+11/01/2021;Male;52;Navarra, Comunidad Foral de;COVID
+11/01/2021;Male;60;Bilbao;COVID
+11/01/2021;Female;26;Bilbao;COVID
+11/01/2021;Male;52;Bilbao;COVID
+11/01/2021;Female;57;Bilbao;COVID
+11/01/2021;Male;11;Bilbao;COVID
+11/01/2021;Male;30;Bilbao;COVID
+11/01/2021;Female;53;Rioja, La;COVID
+11/01/2021;Female;6;Rioja, La;COVID
+11/01/2021;Female;31;Rioja, La;COVID
+11/01/2021;Female;36;Rioja, La;COVID
+12/01/2021;Female;78;Rioja, La;COVID
+12/01/2021;Male;40;Rioja, La;COVID
+12/01/2021;Female;59;Ceuta;COVID
+12/01/2021;Female;16;Ceuta;COVID
+12/01/2021;Male;49;Ceuta;COVID
+12/01/2021;Male;21;Ceuta;COVID
+12/01/2021;Male;5;Ceuta;COVID
+12/01/2021;Female;16;Ceuta;COVID
+12/01/2021;Female;55;Melilla;COVID
+12/01/2021;Male;53;Melilla;COVID
+12/01/2021;Male;37;Melilla;COVID
+12/01/2021;Male;18;Melilla;COVID
+12/01/2021;Female;4;Melilla;COVID
+12/01/2021;Male;36;Melilla;COVID
+12/01/2021;Female;57;Sevilla;COVID
+12/01/2021;Male;24;Sevilla;COVID
+12/01/2021;Female;77;Sevilla;COVID
+12/01/2021;Male;35;Sevilla;COVID
+12/01/2021;Female;6;Sevilla;COVID
+12/01/2021;Female;67;Sevilla;COVID
+13/01/2021;Female;30;Zaragoza;COVID
+13/01/2021;Female;21;Zaragoza;COVID
+13/01/2021;Male;43;Zaragoza;COVID
+13/01/2021;Male;24;Zaragoza;COVID
+13/01/2021;Female;52;Zaragoza;COVID
+13/01/2021;Female;59;Zaragoza;COVID
+13/01/2021;Female;15;Oviedo;COVID
+13/01/2021;Female;70;Oviedo;COVID
+13/01/2021;Female;39;Oviedo;COVID
+13/01/2021;Female;39;Oviedo;COVID
+13/01/2021;Female;75;Oviedo;COVID
+13/01/2021;Female;29;Oviedo;COVID
+13/01/2021;Male;53;Palma_Mallorca, Illes;COVID
+13/01/2021;Female;79;Palma_Mallorca, Illes;COVID
+13/01/2021;Female;17;Palma_Mallorca, Illes;COVID
+13/01/2021;Female;67;Palma_Mallorca, Illes;COVID
+13/01/2021;Female;28;Palma_Mallorca, Illes;COVID
+13/01/2021;Male;23;Palma_Mallorca, Illes;COVID
+13/01/2021;Female;14;Las_Palmas;COVID
+13/01/2021;Male;47;Las_Palmas;COVID
+14/01/2021;Female;67;Las_Palmas;COVID
+14/01/2021;Female;50;Las_Palmas;COVID
+14/01/2021;Female;63;Las_Palmas;COVID
+14/01/2021;Female;60;Las_Palmas;COVID
+14/01/2021;Female;73;Santander;COVID
+14/01/2021;Male;54;Santander;COVID
+14/01/2021;Female;48;Santander;COVID
+14/01/2021;Female;75;Santander;COVID
+14/01/2021;Male;67;Santander;COVID
+14/01/2021;Male;2;Santander;COVID
+14/01/2021;Male;44;Valladolid;COVID
+14/01/2021;Female;71;Valladolid;COVID
+14/01/2021;Female;81;Valladolid;COVID
+14/01/2021;Female;59;Valladolid;COVID
+14/01/2021;Male;57;Valladolid;COVID
+14/01/2021;Female;63;Valladolid;COVID
+14/01/2021;Female;82;Toledo;COVID
+14/01/2021;Male;18;Toledo;COVID
+14/01/2021;Female;28;Toledo;COVID
+14/01/2021;Female;57;Toledo;COVID
+15/01/2021;Male;22;Toledo;COVID
+15/01/2021;Female;7;Toledo;COVID
+15/01/2021;Female;43;Barcelona;COVID
+15/01/2021;Female;18;Barcelona;COVID
+15/01/2021;Female;88;Barcelona;COVID
+15/01/2021;Male;40;Barcelona;COVID
+15/01/2021;Female;7;Barcelona;COVID
+15/01/2021;Female;8;Barcelona;COVID
+15/01/2021;Female;47;Valencia;COVID
+15/01/2021;Male;88;Valencia;COVID
+15/01/2021;Male;64;Valencia;COVID
+15/01/2021;Male;52;Valencia;COVID
+15/01/2021;Male;41;Valencia;COVID
+15/01/2021;Female;68;Valencia;COVID
+15/01/2021;Male;79;Mérida;COVID
+15/01/2021;Female;70;Mérida;COVID
+15/01/2021;Female;27;Mérida;COVID
+15/01/2021;Female;79;Mérida;COVID
+15/01/2021;Female;53;Mérida;COVID
+15/01/2021;Female;15;Mérida;COVID
+18/01/2021;Female;35;Santiago;COVID
+18/01/2021;Female;17;Santiago;COVID
+18/01/2021;Female;81;Santiago;COVID
+18/01/2021;Female;51;Santiago;COVID
+18/01/2021;Male;19;Santiago;COVID
+18/01/2021;Female;76;Santiago;COVID
+18/01/2021;Male;72;Madrid;COVID
+18/01/2021;Female;39;Madrid;COVID
+18/01/2021;Female;41;Madrid;COVID
+18/01/2021;Female;57;Madrid;COVID
+18/01/2021;Female;47;Madrid;COVID
+18/01/2021;Male;64;Madrid;COVID
+18/01/2021;Female;63;Murcia, Región de;COVID
+18/01/2021;Male;73;Murcia, Región de;COVID
+18/01/2021;Female;12;Murcia, Región de;COVID
+18/01/2021;Female;56;Murcia, Región de;COVID
+18/01/2021;Male;32;Murcia, Región de;COVID
+18/01/2021;Male;45;Murcia, Región de;COVID
+18/01/2021;Male;75;Navarra, Comunidad Foral de;COVID
+18/01/2021;Female;29;Navarra, Comunidad Foral de;COVID
+19/01/2021;Male;29;Navarra, Comunidad Foral de;COVID
+19/01/2021;Male;51;Navarra, Comunidad Foral de;COVID
+19/01/2021;Male;59;Navarra, Comunidad Foral de;COVID
+19/01/2021;Male;52;Navarra, Comunidad Foral de;COVID
+19/01/2021;Female;52;Bilbao;COVID
+19/01/2021;Male;13;Bilbao;COVID
+19/01/2021;Female;69;Bilbao;COVID
+19/01/2021;Female;72;Bilbao;COVID
+19/01/2021;Female;26;Bilbao;COVID
+19/01/2021;Male;40;Bilbao;COVID
+19/01/2021;Male;66;Rioja, La;COVID
+19/01/2021;Male;58;Rioja, La;COVID
+19/01/2021;Female;24;Rioja, La;COVID
+19/01/2021;Male;51;Rioja, La;COVID
+19/01/2021;Female;49;Rioja, La;COVID
+19/01/2021;Female;55;Rioja, La;COVID
+19/01/2021;Male;55;Ceuta;COVID
+19/01/2021;Female;5;Ceuta;COVID
+19/01/2021;Female;55;Ceuta;COVID
+19/01/2021;Female;55;Ceuta;COVID
+20/01/2021;Female;25;Ceuta;COVID
+20/01/2021;Female;46;Ceuta;COVID
+20/01/2021;Male;24;Melilla;COVID
+20/01/2021;Male;55;Melilla;COVID
+20/01/2021;Female;42;Melilla;COVID
+20/01/2021;Male;62;Melilla;COVID
+20/01/2021;Male;82;Melilla;COVID
+20/01/2021;Male;51;Melilla;COVID
+20/01/2021;Male;76;Sevilla;COVID
+20/01/2021;Female;32;Sevilla;COVID
+20/01/2021;Male;20;Sevilla;COVID
+20/01/2021;Female;15;Sevilla;COVID
+20/01/2021;Female;28;Sevilla;COVID
+20/01/2021;Female;74;Sevilla;COVID
+20/01/2021;Female;64;Zaragoza;COVID
+20/01/2021;Female;27;Zaragoza;COVID
+20/01/2021;Female;39;Zaragoza;COVID
+20/01/2021;Female;58;Zaragoza;COVID
+20/01/2021;Male;72;Zaragoza;COVID
+20/01/2021;Female;58;Zaragoza;COVID
+21/01/2021;Female;32;Oviedo;COVID
+21/01/2021;Male;66;Oviedo;COVID
+21/01/2021;Female;38;Oviedo;COVID
+21/01/2021;Female;66;Oviedo;COVID
+21/01/2021;Female;67;Oviedo;COVID
+21/01/2021;Female;88;Oviedo;COVID
+21/01/2021;Male;19;Palma_Mallorca, Illes;COVID
+21/01/2021;Female;55;Palma_Mallorca, Illes;COVID
+21/01/2021;Female;55;Palma_Mallorca, Illes;COVID
+21/01/2021;Male;59;Palma_Mallorca, Illes;COVID
+21/01/2021;Female;64;Palma_Mallorca, Illes;COVID
+21/01/2021;Female;60;Palma_Mallorca, Illes;COVID
+21/01/2021;Male;11;Las_Palmas;COVID
+21/01/2021;Female;16;Las_Palmas;COVID
+21/01/2021;Male;70;Las_Palmas;COVID
+21/01/2021;Female;31;Las_Palmas;COVID
+21/01/2021;Male;10;Las_Palmas;COVID
+21/01/2021;Female;62;Las_Palmas;COVID
+21/01/2021;Female;37;Santander;COVID
+21/01/2021;Female;31;Santander;COVID
+22/01/2021;Male;32;Santander;COVID
+22/01/2021;Female;75;Santander;COVID
+22/01/2021;Male;22;Santander;COVID
+22/01/2021;Female;42;Santander;COVID
+22/01/2021;Male;31;Valladolid;COVID
+22/01/2021;Male;55;Valladolid;COVID
+22/01/2021;Female;70;Valladolid;COVID
+22/01/2021;Female;45;Valladolid;COVID
+22/01/2021;Female;37;Valladolid;COVID
+22/01/2021;Male;61;Valladolid;COVID
+22/01/2021;Female;75;Toledo;COVID
+22/01/2021;Male;57;Toledo;COVID
+22/01/2021;Female;65;Toledo;COVID
+22/01/2021;Female;70;Toledo;COVID
+22/01/2021;Male;57;Toledo;COVID
+22/01/2021;Male;26;Toledo;COVID
+22/01/2021;Male;53;Barcelona;COVID
+22/01/2021;Male;13;Barcelona;COVID
+22/01/2021;Female;64;Barcelona;COVID
+22/01/2021;Female;5;Barcelona;COVID
+25/01/2021;Male;65;Barcelona;COVID
+25/01/2021;Male;68;Barcelona;COVID
+25/01/2021;Male;39;Valencia;COVID
+25/01/2021;Female;82;Valencia;COVID
+25/01/2021;Male;48;Valencia;COVID
+25/01/2021;Female;51;Valencia;COVID
+25/01/2021;Female;15;Valencia;COVID
+25/01/2021;Female;10;Valencia;COVID
+25/01/2021;Male;69;Mérida;COVID
+25/01/2021;Male;66;Mérida;COVID
+25/01/2021;Male;21;Mérida;COVID
+25/01/2021;Female;16;Mérida;COVID
+25/01/2021;Female;32;Mérida;COVID
+25/01/2021;Male;53;Mérida;COVID
+25/01/2021;Female;77;Santiago;COVID
+25/01/2021;Female;52;Santiago;COVID
+25/01/2021;Male;70;Santiago;COVID
+25/01/2021;Male;21;Santiago;COVID
+25/01/2021;Female;36;Santiago;COVID
+25/01/2021;Female;64;Santiago;COVID
+26/01/2021;Female;6;Madrid;COVID
+26/01/2021;Female;54;Madrid;COVID
+26/01/2021;Female;63;Madrid;COVID
+26/01/2021;Female;36;Madrid;COVID
+26/01/2021;Male;1;Madrid;COVID
+26/01/2021;Male;15;Madrid;COVID
+26/01/2021;Male;35;Murcia, Región de;COVID
+26/01/2021;Male;65;Murcia, Región de;COVID
+26/01/2021;Male;55;Murcia, Región de;COVID
+26/01/2021;Male;64;Murcia, Región de;COVID
+26/01/2021;Female;41;Murcia, Región de;COVID
+26/01/2021;Female;60;Murcia, Región de;COVID
+26/01/2021;Male;65;Navarra, Comunidad Foral de;COVID
+26/01/2021;Female;77;Navarra, Comunidad Foral de;COVID
+26/01/2021;Female;40;Navarra, Comunidad Foral de;COVID
+26/01/2021;Female;41;Navarra, Comunidad Foral de;COVID
+26/01/2021;Male;60;Navarra, Comunidad Foral de;COVID
+26/01/2021;Female;76;Navarra, Comunidad Foral de;COVID
+26/01/2021;Female;36;Bilbao;COVID
+26/01/2021;Female;32;Bilbao;COVID
+27/01/2021;Female;9;Bilbao;COVID
+27/01/2021;Female;78;Bilbao;COVID
+27/01/2021;Female;28;Bilbao;COVID
+27/01/2021;Male;55;Bilbao;COVID
+27/01/2021;Male;55;Rioja, La;COVID
+27/01/2021;Male;20;Rioja, La;COVID
+27/01/2021;Male;26;Rioja, La;COVID
+27/01/2021;Female;64;Rioja, La;COVID
+27/01/2021;Female;76;Rioja, La;COVID
+27/01/2021;Female;60;Rioja, La;COVID
+27/01/2021;Male;72;Ceuta;COVID
+27/01/2021;Female;45;Ceuta;COVID
+27/01/2021;Female;74;Ceuta;COVID
+27/01/2021;Male;19;Ceuta;COVID
+27/01/2021;Male;76;Ceuta;COVID
+27/01/2021;Female;46;Ceuta;COVID
+27/01/2021;Female;42;Melilla;COVID
+27/01/2021;Female;74;Melilla;COVID
+27/01/2021;Female;39;Melilla;COVID
+27/01/2021;Male;7;Melilla;COVID
+28/01/2021;Female;8;Melilla;COVID
+28/01/2021;Female;3;Melilla;COVID
+28/01/2021;Female;39;Sevilla;COVID
+28/01/2021;Female;33;Sevilla;COVID
+28/01/2021;Female;30;Sevilla;COVID
+28/01/2021;Female;24;Sevilla;COVID
+28/01/2021;Male;63;Sevilla;COVID
+28/01/2021;Female;23;Sevilla;COVID
+28/01/2021;Male;53;Zaragoza;COVID
+28/01/2021;Male;41;Zaragoza;COVID
+28/01/2021;Male;16;Zaragoza;COVID
+28/01/2021;Female;31;Zaragoza;COVID
+28/01/2021;Female;54;Zaragoza;COVID
+28/01/2021;Male;38;Zaragoza;COVID
+28/01/2021;Male;17;Oviedo;COVID
+28/01/2021;Male;58;Oviedo;COVID
+28/01/2021;Female;77;Oviedo;COVID
+28/01/2021;Male;52;Oviedo;COVID
+28/01/2021;Female;39;Oviedo;COVID
+28/01/2021;Male;35;Oviedo;COVID
+29/01/2021;Female;34;Palma_Mallorca, Illes;COVID
+29/01/2021;Male;75;Palma_Mallorca, Illes;COVID
+29/01/2021;Male;68;Palma_Mallorca, Illes;COVID
+29/01/2021;Female;52;Palma_Mallorca, Illes;COVID
+29/01/2021;Male;60;Palma_Mallorca, Illes;COVID
+29/01/2021;Male;42;Palma_Mallorca, Illes;COVID
+29/01/2021;Male;18;Las_Palmas;COVID
+29/01/2021;Male;12;Las_Palmas;COVID
+29/01/2021;Male;34;Las_Palmas;COVID
+29/01/2021;Female;9;Las_Palmas;COVID
+29/01/2021;Male;26;Las_Palmas;COVID
+29/01/2021;Female;76;Las_Palmas;COVID
+29/01/2021;Female;33;Santander;COVID
+29/01/2021;Female;80;Santander;COVID
+29/01/2021;Female;15;Santander;COVID
+29/01/2021;Female;59;Santander;COVID
+29/01/2021;Female;40;Santander;COVID
+29/01/2021;Male;50;Santander;COVID
+29/01/2021;Female;62;Valladolid;COVID
+29/01/2021;Female;49;Valladolid;COVID
+01/02/2021;Male;80;Valladolid;COVID
+01/02/2021;Female;26;Valladolid;COVID
+01/02/2021;Female;15;Valladolid;COVID
+01/02/2021;Male;81;Valladolid;COVID
+01/02/2021;Female;39;Toledo;COVID
+01/02/2021;Female;50;Toledo;COVID
+01/02/2021;Female;43;Toledo;COVID
+01/02/2021;Female;45;Toledo;COVID
+01/02/2021;Female;44;Toledo;COVID
+01/02/2021;Female;61;Toledo;COVID
+01/02/2021;Male;44;Barcelona;COVID
+01/02/2021;Male;80;Barcelona;COVID
+01/02/2021;Female;2;Barcelona;COVID
+01/02/2021;Male;33;Barcelona;COVID
+01/02/2021;Male;16;Barcelona;COVID
+01/02/2021;Female;75;Barcelona;COVID
+01/02/2021;Male;27;Valencia;COVID
+01/02/2021;Male;56;Valencia;COVID
+01/02/2021;Female;75;Valencia;COVID
+01/02/2021;Female;54;Valencia;COVID
+02/02/2021;Female;49;Valencia;COVID
+02/02/2021;Female;4;Valencia;COVID
+02/02/2021;Female;56;Mérida;COVID
+02/02/2021;Male;29;Mérida;COVID
+02/02/2021;Female;66;Mérida;COVID
+02/02/2021;Male;15;Mérida;COVID
+02/02/2021;Male;47;Mérida;COVID
+02/02/2021;Female;30;Mérida;COVID
+02/02/2021;Female;54;Santiago;COVID
+02/02/2021;Male;33;Santiago;COVID
+02/02/2021;Female;16;Santiago;COVID
+02/02/2021;Male;80;Santiago;COVID
+02/02/2021;Female;39;Santiago;COVID
+02/02/2021;Male;14;Santiago;COVID
+02/02/2021;Male;75;Madrid;COVID
+02/02/2021;Male;56;Madrid;COVID
+02/02/2021;Female;36;Madrid;COVID
+02/02/2021;Male;44;Madrid;COVID
+02/02/2021;Female;57;Madrid;COVID
+02/02/2021;Female;78;Madrid;COVID
+03/02/2021;Female;55;Murcia, Región de;COVID
+03/02/2021;Female;37;Murcia, Región de;COVID
+03/02/2021;Male;49;Murcia, Región de;COVID
+03/02/2021;Female;49;Murcia, Región de;COVID
+03/02/2021;Female;49;Murcia, Región de;COVID
+03/02/2021;Female;56;Murcia, Región de;COVID
+03/02/2021;Male;4;Navarra, Comunidad Foral de;COVID
+03/02/2021;Female;69;Navarra, Comunidad Foral de;COVID
+03/02/2021;Female;14;Navarra, Comunidad Foral de;COVID
+03/02/2021;Male;52;Navarra, Comunidad Foral de;COVID
+03/02/2021;Male;60;Navarra, Comunidad Foral de;COVID
+03/02/2021;Male;74;Navarra, Comunidad Foral de;COVID
+03/02/2021;Female;48;Bilbao;COVID
+03/02/2021;Female;44;Bilbao;COVID
+03/02/2021;Female;39;Bilbao;COVID
+03/02/2021;Male;46;Bilbao;COVID
+03/02/2021;Female;65;Bilbao;COVID
+03/02/2021;Male;51;Bilbao;COVID
+03/02/2021;Female;81;Rioja, La;COVID
+03/02/2021;Female;74;Rioja, La;COVID
+04/02/2021;Female;73;Rioja, La;COVID
+04/02/2021;Male;51;Rioja, La;COVID
+04/02/2021;Male;66;Rioja, La;COVID
+04/02/2021;Female;62;Rioja, La;COVID
+04/02/2021;Male;26;Ceuta;COVID
+04/02/2021;Female;76;Ceuta;COVID
+04/02/2021;Male;56;Ceuta;COVID
+04/02/2021;Male;30;Ceuta;COVID
+04/02/2021;Male;12;Ceuta;COVID
+04/02/2021;Female;20;Ceuta;COVID
+04/02/2021;Male;14;Melilla;COVID
+04/02/2021;Male;58;Melilla;COVID
+04/02/2021;Female;40;Melilla;COVID
+04/02/2021;Female;59;Melilla;COVID
+04/02/2021;Female;81;Melilla;COVID
+04/02/2021;Female;62;Melilla;COVID
+04/02/2021;Female;49;Sevilla;COVID
+04/02/2021;Female;10;Sevilla;COVID
+04/02/2021;Female;48;Sevilla;COVID
+04/02/2021;Female;7;Sevilla;COVID
+05/02/2021;Female;47;Sevilla;COVID
+05/02/2021;Female;29;Sevilla;COVID
+05/02/2021;Female;49;Zaragoza;COVID
+05/02/2021;Male;53;Zaragoza;COVID
+05/02/2021;Female;28;Zaragoza;COVID
+05/02/2021;Female;50;Zaragoza;COVID
+05/02/2021;Male;24;Zaragoza;COVID
+05/02/2021;Female;16;Zaragoza;COVID
+05/02/2021;Male;48;Oviedo;COVID
+05/02/2021;Male;24;Oviedo;COVID
+05/02/2021;Female;80;Oviedo;COVID
+05/02/2021;Female;55;Oviedo;COVID
+05/02/2021;Female;45;Oviedo;COVID
+05/02/2021;Female;52;Oviedo;COVID
+05/02/2021;Male;48;Palma_Mallorca, Illes;COVID
+05/02/2021;Male;81;Palma_Mallorca, Illes;COVID
+05/02/2021;Male;78;Palma_Mallorca, Illes;COVID
+05/02/2021;Male;33;Palma_Mallorca, Illes;COVID
+05/02/2021;Female;31;Palma_Mallorca, Illes;COVID
+05/02/2021;Female;57;Palma_Mallorca, Illes;COVID
+08/02/2021;Female;74;Las_Palmas;COVID
+08/02/2021;Male;48;Las_Palmas;COVID
+08/02/2021;Male;3;Las_Palmas;COVID
+08/02/2021;Male;9;Las_Palmas;COVID
+08/02/2021;Female;63;Las_Palmas;COVID
+08/02/2021;Male;43;Las_Palmas;COVID
+08/02/2021;Male;14;Santander;COVID
+08/02/2021;Female;7;Santander;COVID
+08/02/2021;Female;64;Santander;COVID
+08/02/2021;Female;69;Santander;COVID
+08/02/2021;Female;78;Santander;COVID
+08/02/2021;Male;53;Santander;COVID
+08/02/2021;Female;26;Valladolid;COVID
+08/02/2021;Male;62;Valladolid;COVID
+08/02/2021;Female;44;Valladolid;COVID
+08/02/2021;Male;7;Valladolid;COVID
+08/02/2021;Male;59;Valladolid;COVID
+08/02/2021;Female;70;Valladolid;COVID
+08/02/2021;Male;46;Toledo;COVID
+08/02/2021;Female;37;Toledo;COVID
+09/02/2021;Male;33;Toledo;COVID
+09/02/2021;Female;79;Toledo;COVID
+09/02/2021;Female;68;Toledo;COVID
+09/02/2021;Female;30;Toledo;COVID
+09/02/2021;Male;58;Barcelona;COVID
+09/02/2021;Male;10;Barcelona;COVID
+09/02/2021;Male;67;Barcelona;COVID
+09/02/2021;Female;71;Barcelona;COVID
+09/02/2021;Male;61;Barcelona;COVID
+09/02/2021;Female;45;Barcelona;COVID
+09/02/2021;Female;37;Valencia;COVID
+09/02/2021;Female;40;Valencia;COVID
+09/02/2021;Male;19;Valencia;COVID
+09/02/2021;Female;44;Valencia;COVID
+09/02/2021;Female;57;Valencia;COVID
+09/02/2021;Male;49;Valencia;COVID
+09/02/2021;Female;50;Mérida;COVID
+09/02/2021;Male;64;Mérida;COVID
+09/02/2021;Male;34;Mérida;COVID
+09/02/2021;Female;11;Mérida;COVID
+10/02/2021;Female;5;Mérida;COVID
+10/02/2021;Female;41;Mérida;COVID
+10/02/2021;Female;49;Santiago;COVID
+10/02/2021;Male;69;Santiago;COVID
+10/02/2021;Male;63;Santiago;COVID
+10/02/2021;Female;13;Santiago;COVID
+10/02/2021;Female;31;Santiago;COVID
+10/02/2021;Male;57;Santiago;COVID
+10/02/2021;Male;72;Madrid;COVID
+10/02/2021;Female;38;Madrid;COVID
+10/02/2021;Female;23;Madrid;COVID
+10/02/2021;Male;77;Madrid;COVID
+10/02/2021;Female;41;Madrid;COVID
+10/02/2021;Female;56;Madrid;COVID
+10/02/2021;Female;27;Murcia, Región de;COVID
+10/02/2021;Female;8;Murcia, Región de;COVID
+10/02/2021;Female;56;Murcia, Región de;COVID
+10/02/2021;Female;17;Murcia, Región de;COVID
+10/02/2021;Male;40;Murcia, Región de;COVID
+10/02/2021;Female;42;Murcia, Región de;COVID
+11/02/2021;Male;10;Navarra, Comunidad Foral de;COVID
+11/02/2021;Male;6;Navarra, Comunidad Foral de;COVID
+11/02/2021;Female;74;Navarra, Comunidad Foral de;COVID
+11/02/2021;Male;64;Navarra, Comunidad Foral de;COVID
+11/02/2021;Male;81;Navarra, Comunidad Foral de;COVID
+11/02/2021;Male;16;Navarra, Comunidad Foral de;COVID
+11/02/2021;Female;22;Bilbao;COVID
+11/02/2021;Male;45;Bilbao;COVID
+11/02/2021;Female;28;Bilbao;COVID
+11/02/2021;Male;58;Bilbao;COVID
+11/02/2021;Female;59;Bilbao;COVID
+11/02/2021;Male;33;Bilbao;COVID
+11/02/2021;Female;19;Rioja, La;COVID
+11/02/2021;Male;31;Rioja, La;COVID
+11/02/2021;Female;12;Rioja, La;COVID
+11/02/2021;Female;48;Rioja, La;COVID
+11/02/2021;Male;37;Rioja, La;COVID
+11/02/2021;Female;77;Rioja, La;COVID
+11/02/2021;Female;56;Ceuta;COVID
+11/02/2021;Male;80;Ceuta;COVID
+12/02/2021;Female;31;Ceuta;COVID
+12/02/2021;Male;24;Ceuta;COVID
+12/02/2021;Female;73;Ceuta;COVID
+12/02/2021;Male;16;Ceuta;COVID
+12/02/2021;Male;65;Melilla;COVID
+12/02/2021;Female;26;Melilla;COVID
+12/02/2021;Female;49;Melilla;COVID
+12/02/2021;Male;51;Melilla;COVID
+12/02/2021;Male;17;Melilla;COVID
+12/02/2021;Male;17;Melilla;COVID
+12/02/2021;Female;42;Sevilla;COVID
+12/02/2021;Female;46;Sevilla;COVID
+12/02/2021;Female;47;Sevilla;COVID
+12/02/2021;Male;51;Sevilla;COVID
+12/02/2021;Female;71;Sevilla;COVID
+12/02/2021;Female;62;Sevilla;COVID
+12/02/2021;Female;60;Zaragoza;COVID
+12/02/2021;Female;52;Zaragoza;COVID
+12/02/2021;Male;18;Zaragoza;COVID
+12/02/2021;Male;43;Zaragoza;COVID
+15/02/2021;Female;11;Zaragoza;COVID
+15/02/2021;Male;9;Zaragoza;COVID
+15/02/2021;Male;69;Oviedo;COVID
+15/02/2021;Male;49;Oviedo;COVID
+15/02/2021;Male;76;Oviedo;COVID
+15/02/2021;Female;32;Oviedo;COVID
+15/02/2021;Female;37;Oviedo;COVID
+15/02/2021;Male;58;Oviedo;COVID
+15/02/2021;Male;36;Palma_Mallorca, Illes;COVID
+15/02/2021;Female;21;Palma_Mallorca, Illes;COVID
+15/02/2021;Male;81;Palma_Mallorca, Illes;COVID
+15/02/2021;Female;28;Palma_Mallorca, Illes;COVID
+15/02/2021;Female;56;Palma_Mallorca, Illes;COVID
+15/02/2021;Male;14;Palma_Mallorca, Illes;COVID
+15/02/2021;Male;36;Las_Palmas;COVID
+15/02/2021;Female;50;Las_Palmas;COVID
+15/02/2021;Male;51;Las_Palmas;COVID
+15/02/2021;Male;28;Las_Palmas;COVID
+15/02/2021;Male;64;Las_Palmas;COVID
+15/02/2021;Female;32;Las_Palmas;COVID
+16/02/2021;Female;50;Santander;COVID
+16/02/2021;Female;40;Santander;COVID
+16/02/2021;Male;34;Santander;COVID
+16/02/2021;Male;55;Santander;COVID
+16/02/2021;Male;44;Santander;COVID
+16/02/2021;Female;64;Santander;COVID
+16/02/2021;Female;61;Valladolid;COVID
+16/02/2021;Female;44;Valladolid;COVID
+16/02/2021;Male;70;Valladolid;COVID
+16/02/2021;Male;78;Valladolid;COVID
+16/02/2021;Male;71;Valladolid;COVID
+16/02/2021;Female;28;Valladolid;COVID
+16/02/2021;Female;76;Toledo;COVID
+16/02/2021;Male;45;Toledo;COVID
+16/02/2021;Female;23;Toledo;COVID
+16/02/2021;Male;54;Toledo;COVID
+16/02/2021;Female;46;Toledo;COVID
+16/02/2021;Male;11;Toledo;COVID
+16/02/2021;Male;72;Barcelona;COVID
+16/02/2021;Female;30;Barcelona;COVID
+17/02/2021;Female;79;Barcelona;COVID
+17/02/2021;Female;8;Barcelona;COVID
+17/02/2021;Female;61;Barcelona;COVID
+17/02/2021;Female;63;Barcelona;COVID
+17/02/2021;Female;53;Valencia;COVID
+17/02/2021;Female;61;Valencia;COVID
+17/02/2021;Female;28;Valencia;COVID
+17/02/2021;Male;45;Valencia;COVID
+17/02/2021;Male;6;Valencia;COVID
+17/02/2021;Female;39;Valencia;COVID
+17/02/2021;Male;14;Mérida;COVID
+17/02/2021;Female;55;Mérida;COVID
+17/02/2021;Female;37;Mérida;COVID
+17/02/2021;Female;6;Mérida;COVID
+17/02/2021;Female;46;Mérida;COVID
+17/02/2021;Female;28;Mérida;COVID
+17/02/2021;Female;42;Santiago;COVID
+17/02/2021;Female;13;Santiago;COVID
+17/02/2021;Male;61;Santiago;COVID
+17/02/2021;Female;20;Santiago;COVID
+18/02/2021;Male;8;Santiago;COVID
+18/02/2021;Female;32;Santiago;COVID
+18/02/2021;Male;56;Madrid;COVID
+18/02/2021;Female;17;Madrid;COVID
+18/02/2021;Female;9;Madrid;COVID
+18/02/2021;Female;6;Madrid;COVID
+18/02/2021;Male;49;Madrid;COVID
+18/02/2021;Male;14;Madrid;COVID
+18/02/2021;Male;13;Murcia, Región de;COVID
+18/02/2021;Female;19;Murcia, Región de;COVID
+18/02/2021;Female;70;Murcia, Región de;COVID
+18/02/2021;Female;12;Murcia, Región de;COVID
+18/02/2021;Female;52;Murcia, Región de;COVID
+18/02/2021;Male;68;Murcia, Región de;COVID
+18/02/2021;Male;13;Navarra, Comunidad Foral de;COVID
+18/02/2021;Female;58;Navarra, Comunidad Foral de;COVID
+18/02/2021;Male;61;Navarra, Comunidad Foral de;COVID
+18/02/2021;Female;45;Navarra, Comunidad Foral de;COVID
+18/02/2021;Female;88;Navarra, Comunidad Foral de;COVID
+18/02/2021;Male;15;Navarra, Comunidad Foral de;COVID
+19/02/2021;Female;17;Bilbao;COVID
+19/02/2021;Male;78;Bilbao;COVID
+19/02/2021;Male;26;Bilbao;COVID
+19/02/2021;Female;76;Bilbao;COVID
+19/02/2021;Female;46;Bilbao;COVID
+19/02/2021;Male;38;Bilbao;COVID
+19/02/2021;Female;30;Rioja, La;COVID
+19/02/2021;Female;69;Rioja, La;COVID
+19/02/2021;Female;49;Rioja, La;COVID
+19/02/2021;Female;7;Rioja, La;COVID
+19/02/2021;Male;63;Rioja, La;COVID
+19/02/2021;Female;43;Rioja, La;COVID
+19/02/2021;Male;16;Ceuta;COVID
+19/02/2021;Male;63;Ceuta;COVID
+19/02/2021;Female;57;Ceuta;COVID
+19/02/2021;Male;28;Ceuta;COVID
+19/02/2021;Male;8;Ceuta;COVID
+19/02/2021;Male;9;Ceuta;COVID
+19/02/2021;Female;40;Melilla;COVID
+19/02/2021;Male;11;Melilla;COVID
+22/02/2021;Female;63;Melilla;COVID
+22/02/2021;Male;26;Melilla;COVID
+22/02/2021;Male;28;Melilla;COVID
+22/02/2021;Male;14;Melilla;COVID
+22/02/2021;Female;21;Sevilla;COVID
+22/02/2021;Male;8;Sevilla;COVID
+22/02/2021;Female;69;Sevilla;COVID
+22/02/2021;Female;78;Sevilla;COVID
+22/02/2021;Male;60;Sevilla;COVID
+22/02/2021;Male;25;Sevilla;COVID
+22/02/2021;Female;32;Zaragoza;COVID
+22/02/2021;Female;38;Zaragoza;COVID
+22/02/2021;Female;80;Zaragoza;COVID
+22/02/2021;Male;17;Zaragoza;COVID
+22/02/2021;Male;7;Zaragoza;COVID
+22/02/2021;Male;51;Zaragoza;COVID
+22/02/2021;Male;20;Oviedo;COVID
+22/02/2021;Female;37;Oviedo;COVID
+22/02/2021;Female;21;Oviedo;COVID
+22/02/2021;Male;43;Oviedo;COVID
+23/02/2021;Female;47;Oviedo;COVID
+23/02/2021;Female;36;Oviedo;COVID
+23/02/2021;Male;24;Palma_Mallorca, Illes;COVID
+23/02/2021;Female;17;Palma_Mallorca, Illes;COVID
+23/02/2021;Male;79;Palma_Mallorca, Illes;COVID
+23/02/2021;Female;80;Palma_Mallorca, Illes;COVID
+23/02/2021;Male;45;Palma_Mallorca, Illes;COVID
+23/02/2021;Male;7;Palma_Mallorca, Illes;COVID
+23/02/2021;Female;72;Las_Palmas;COVID
+23/02/2021;Female;2;Las_Palmas;COVID
+23/02/2021;Female;48;Las_Palmas;COVID
+23/02/2021;Male;42;Las_Palmas;COVID
+23/02/2021;Male;66;Las_Palmas;COVID
+23/02/2021;Female;8;Las_Palmas;COVID
+23/02/2021;Male;47;Santander;COVID
+23/02/2021;Female;28;Santander;COVID
+23/02/2021;Male;36;Santander;COVID
+23/02/2021;Male;54;Santander;COVID
+23/02/2021;Male;18;Santander;COVID
+23/02/2021;Female;4;Santander;COVID
+24/02/2021;Female;51;Valladolid;COVID
+24/02/2021;Female;31;Valladolid;COVID
+24/02/2021;Female;21;Valladolid;COVID
+24/02/2021;Female;25;Valladolid;COVID
+24/02/2021;Female;32;Valladolid;COVID
+24/02/2021;Male;41;Valladolid;COVID
+24/02/2021;Male;50;Toledo;COVID
+24/02/2021;Female;68;Toledo;COVID
+24/02/2021;Female;3;Toledo;COVID
+24/02/2021;Female;35;Toledo;COVID
+24/02/2021;Male;42;Toledo;COVID
+24/02/2021;Male;5;Toledo;COVID
+24/02/2021;Female;29;Barcelona;COVID
+24/02/2021;Female;6;Barcelona;COVID
+24/02/2021;Male;58;Barcelona;COVID
+24/02/2021;Female;6;Barcelona;COVID
+24/02/2021;Male;27;Barcelona;COVID
+24/02/2021;Male;36;Barcelona;COVID
+24/02/2021;Female;42;Valencia;COVID
+24/02/2021;Male;62;Valencia;COVID
+25/02/2021;Male;35;Valencia;COVID
+25/02/2021;Male;71;Valencia;COVID
+25/02/2021;Female;28;Valencia;COVID
+25/02/2021;Female;41;Valencia;COVID
+25/02/2021;Male;58;Mérida;COVID
+25/02/2021;Male;56;Mérida;COVID
+25/02/2021;Female;22;Mérida;COVID
+25/02/2021;Male;26;Mérida;COVID
+25/02/2021;Female;82;Mérida;COVID
+25/02/2021;Male;73;Mérida;COVID
+25/02/2021;Male;60;Santiago;COVID
+25/02/2021;Female;53;Santiago;COVID
+25/02/2021;Male;20;Santiago;COVID
+25/02/2021;Female;52;Santiago;COVID
+25/02/2021;Male;23;Santiago;COVID
+25/02/2021;Female;57;Santiago;COVID
+25/02/2021;Female;28;Madrid;COVID
+25/02/2021;Female;10;Madrid;COVID
+25/02/2021;Male;13;Madrid;COVID
+25/02/2021;Female;8;Madrid;COVID
+26/02/2021;Male;57;Madrid;COVID
+26/02/2021;Male;8;Madrid;COVID
+26/02/2021;Male;22;Murcia, Región de;COVID
+26/02/2021;Female;57;Murcia, Región de;COVID
+26/02/2021;Female;55;Murcia, Región de;COVID
+26/02/2021;Female;13;Murcia, Región de;COVID
+26/02/2021;Female;14;Murcia, Región de;COVID
+26/02/2021;Male;55;Murcia, Región de;COVID
+26/02/2021;Male;21;Navarra, Comunidad Foral de;COVID
+26/02/2021;Female;61;Navarra, Comunidad Foral de;COVID
+26/02/2021;Female;19;Navarra, Comunidad Foral de;COVID
+26/02/2021;Male;19;Navarra, Comunidad Foral de;COVID
+26/02/2021;Female;47;Navarra, Comunidad Foral de;COVID
+26/02/2021;Female;47;Navarra, Comunidad Foral de;COVID
+26/02/2021;Male;46;Bilbao;COVID
+26/02/2021;Male;74;Bilbao;COVID
+26/02/2021;Female;22;Bilbao;COVID
+26/02/2021;Female;28;Bilbao;COVID
+26/02/2021;Male;12;Bilbao;COVID
+26/02/2021;Female;69;Bilbao;COVID
+01/03/2021;Male;46;Rioja, La;COVID
+01/03/2021;Female;41;Rioja, La;COVID
+01/03/2021;Male;33;Rioja, La;COVID
+01/03/2021;Male;25;Rioja, La;COVID
+01/03/2021;Female;14;Rioja, La;COVID
+01/03/2021;Female;46;Rioja, La;COVID
+01/03/2021;Female;28;Ceuta;COVID
+01/03/2021;Male;42;Ceuta;COVID
+01/03/2021;Female;27;Ceuta;COVID
+01/03/2021;Female;56;Ceuta;COVID
+01/03/2021;Female;35;Ceuta;COVID
+01/03/2021;Female;3;Ceuta;COVID
+01/03/2021;Female;30;Melilla;COVID
+01/03/2021;Female;26;Melilla;COVID
+01/03/2021;Male;4;Melilla;COVID
+01/03/2021;Male;72;Melilla;COVID
+01/03/2021;Female;56;Melilla;COVID
+01/03/2021;Male;13;Melilla;COVID
+01/03/2021;Female;41;Sevilla;COVID
+01/03/2021;Male;89;Sevilla;COVID
+02/03/2021;Female;9;Sevilla;COVID
+02/03/2021;Male;24;Sevilla;COVID
+02/03/2021;Female;24;Sevilla;COVID
+02/03/2021;Male;56;Sevilla;COVID
+02/03/2021;Female;54;Zaragoza;COVID
+02/03/2021;Male;68;Zaragoza;COVID
+02/03/2021;Male;35;Zaragoza;COVID
+02/03/2021;Male;6;Zaragoza;COVID
+02/03/2021;Male;82;Zaragoza;COVID
+02/03/2021;Female;49;Zaragoza;COVID
+02/03/2021;Female;28;Oviedo;COVID
+02/03/2021;Male;7;Oviedo;COVID
+02/03/2021;Male;9;Oviedo;COVID
+02/03/2021;Female;61;Oviedo;COVID
+02/03/2021;Female;17;Oviedo;COVID
+02/03/2021;Female;55;Oviedo;COVID
+02/03/2021;Male;78;Palma_Mallorca, Illes;COVID
+02/03/2021;Male;65;Palma_Mallorca, Illes;COVID
+02/03/2021;Male;45;Palma_Mallorca, Illes;COVID
+02/03/2021;Female;54;Palma_Mallorca, Illes;COVID
+03/03/2021;Male;29;Palma_Mallorca, Illes;COVID
+03/03/2021;Female;24;Palma_Mallorca, Illes;COVID
+03/03/2021;Male;34;Las_Palmas;COVID
+03/03/2021;Female;38;Las_Palmas;COVID
+03/03/2021;Male;37;Las_Palmas;COVID
+03/03/2021;Male;68;Las_Palmas;COVID
+03/03/2021;Male;29;Las_Palmas;COVID
+03/03/2021;Male;71;Las_Palmas;COVID
+03/03/2021;Female;45;Santander;COVID
+03/03/2021;Female;12;Santander;COVID
+03/03/2021;Male;71;Santander;COVID
+03/03/2021;Male;10;Santander;COVID
+03/03/2021;Male;15;Santander;COVID
+03/03/2021;Male;7;Santander;COVID
+03/03/2021;Male;56;Valladolid;COVID
+03/03/2021;Female;24;Valladolid;COVID
+03/03/2021;Female;43;Valladolid;COVID
+03/03/2021;Female;23;Valladolid;COVID
+03/03/2021;Female;20;Valladolid;COVID
+03/03/2021;Male;29;Valladolid;COVID
+04/03/2021;Male;53;Toledo;COVID
+04/03/2021;Male;39;Toledo;COVID
+04/03/2021;Male;19;Toledo;COVID
+04/03/2021;Male;2;Toledo;COVID
+04/03/2021;Male;54;Toledo;COVID
+04/03/2021;Female;53;Toledo;COVID
+04/03/2021;Female;43;Barcelona;COVID
+04/03/2021;Female;19;Barcelona;COVID
+04/03/2021;Female;38;Barcelona;COVID
+04/03/2021;Male;7;Barcelona;COVID
+04/03/2021;Female;27;Barcelona;COVID
+04/03/2021;Male;2;Barcelona;COVID
+04/03/2021;Female;35;Valencia;COVID
+04/03/2021;Female;81;Valencia;COVID
+04/03/2021;Female;34;Valencia;COVID
+04/03/2021;Female;79;Valencia;COVID
+04/03/2021;Male;40;Valencia;COVID
+04/03/2021;Male;34;Valencia;COVID
+04/03/2021;Female;33;Mérida;COVID
+04/03/2021;Female;64;Mérida;COVID
+05/03/2021;Male;32;Mérida;COVID
+05/03/2021;Female;56;Mérida;COVID
+05/03/2021;Female;52;Mérida;COVID
+05/03/2021;Female;24;Mérida;COVID
+05/03/2021;Female;79;Santiago;COVID
+05/03/2021;Female;27;Santiago;COVID
+05/03/2021;Female;62;Santiago;COVID
+05/03/2021;Female;39;Santiago;COVID
+05/03/2021;Female;35;Santiago;COVID
+05/03/2021;Male;11;Santiago;COVID
+05/03/2021;Female;74;Madrid;COVID
+05/03/2021;Female;59;Madrid;COVID
+05/03/2021;Female;28;Madrid;COVID
+05/03/2021;Male;80;Madrid;COVID
+05/03/2021;Male;31;Madrid;COVID
+05/03/2021;Male;17;Madrid;COVID
+05/03/2021;Male;15;Murcia, Región de;COVID
+05/03/2021;Male;68;Murcia, Región de;COVID
+05/03/2021;Female;26;Murcia, Región de;COVID
+05/03/2021;Female;59;Murcia, Región de;COVID
+08/03/2021;Male;33;Murcia, Región de;COVID
+08/03/2021;Male;39;Murcia, Región de;COVID
+08/03/2021;Male;55;Navarra, Comunidad Foral de;COVID
+08/03/2021;Female;18;Navarra, Comunidad Foral de;COVID
+08/03/2021;Female;48;Navarra, Comunidad Foral de;COVID
+08/03/2021;Female;49;Navarra, Comunidad Foral de;COVID
+08/03/2021;Female;19;Navarra, Comunidad Foral de;COVID
+08/03/2021;Female;26;Navarra, Comunidad Foral de;COVID
+08/03/2021;Female;2;Bilbao;COVID
+08/03/2021;Female;60;Bilbao;COVID
+08/03/2021;Male;21;Bilbao;COVID
+08/03/2021;Male;4;Bilbao;COVID
+08/03/2021;Female;55;Bilbao;COVID
+08/03/2021;Male;55;Bilbao;COVID
+08/03/2021;Male;53;Rioja, La;COVID
+08/03/2021;Male;28;Rioja, La;COVID
+08/03/2021;Female;19;Rioja, La;COVID
+08/03/2021;Male;45;Rioja, La;COVID
+08/03/2021;Male;21;Rioja, La;COVID
+08/03/2021;Female;41;Rioja, La;COVID
+09/03/2021;Male;14;Ceuta;COVID
+09/03/2021;Female;38;Ceuta;COVID
+09/03/2021;Female;46;Ceuta;COVID
+09/03/2021;Female;33;Ceuta;COVID
+09/03/2021;Female;21;Ceuta;COVID
+09/03/2021;Female;24;Ceuta;COVID
+09/03/2021;Male;45;Melilla;COVID
+09/03/2021;Male;49;Melilla;COVID
+09/03/2021;Male;21;Melilla;COVID
+09/03/2021;Female;44;Melilla;COVID
+09/03/2021;Female;61;Melilla;COVID
+09/03/2021;Female;29;Melilla;COVID
+09/03/2021;Female;78;Sevilla;COVID
+09/03/2021;Female;22;Sevilla;COVID
+09/03/2021;Female;33;Sevilla;COVID
+09/03/2021;Female;60;Sevilla;COVID
+09/03/2021;Female;56;Sevilla;COVID
+09/03/2021;Female;78;Sevilla;COVID
+09/03/2021;Female;29;Zaragoza;COVID
+09/03/2021;Male;15;Zaragoza;COVID
+10/03/2021;Male;2;Zaragoza;COVID
+10/03/2021;Male;16;Zaragoza;COVID
+10/03/2021;Male;42;Zaragoza;COVID
+10/03/2021;Male;15;Zaragoza;COVID
+10/03/2021;Male;76;Oviedo;COVID
+10/03/2021;Female;69;Oviedo;COVID
+10/03/2021;Male;25;Oviedo;COVID
+10/03/2021;Female;15;Oviedo;COVID
+10/03/2021;Female;76;Oviedo;COVID
+10/03/2021;Male;60;Oviedo;COVID
+10/03/2021;Male;69;Palma_Mallorca, Illes;COVID
+10/03/2021;Female;78;Palma_Mallorca, Illes;COVID
+10/03/2021;Male;40;Palma_Mallorca, Illes;COVID
+10/03/2021;Male;28;Palma_Mallorca, Illes;COVID
+10/03/2021;Female;78;Palma_Mallorca, Illes;COVID
+10/03/2021;Male;51;Palma_Mallorca, Illes;COVID
+10/03/2021;Female;57;Las_Palmas;COVID
+10/03/2021;Female;24;Las_Palmas;COVID
+10/03/2021;Male;51;Las_Palmas;COVID
+10/03/2021;Female;13;Las_Palmas;COVID
+11/03/2021;Male;58;Las_Palmas;COVID
+11/03/2021;Male;49;Las_Palmas;COVID
+11/03/2021;Male;74;Santander;COVID
+11/03/2021;Female;67;Santander;COVID
+11/03/2021;Female;69;Santander;COVID
+11/03/2021;Male;70;Santander;COVID
+11/03/2021;Female;81;Santander;COVID
+11/03/2021;Female;22;Santander;COVID
+11/03/2021;Female;29;Valladolid;COVID
+11/03/2021;Female;8;Valladolid;COVID
+11/03/2021;Female;7;Valladolid;COVID
+11/03/2021;Female;61;Valladolid;COVID
+11/03/2021;Female;76;Valladolid;COVID
+11/03/2021;Male;56;Valladolid;COVID
+11/03/2021;Female;44;Toledo;COVID
+11/03/2021;Male;8;Toledo;COVID
+11/03/2021;Female;50;Toledo;COVID
+11/03/2021;Male;42;Toledo;COVID
+11/03/2021;Female;5;Toledo;COVID
+11/03/2021;Female;59;Toledo;COVID
+12/03/2021;Female;72;Barcelona;COVID
+12/03/2021;Female;24;Barcelona;COVID
+12/03/2021;Female;13;Barcelona;COVID
+12/03/2021;Male;49;Barcelona;COVID
+12/03/2021;Male;89;Barcelona;COVID
+12/03/2021;Female;31;Barcelona;COVID
+12/03/2021;Female;25;Valencia;COVID
+12/03/2021;Female;17;Valencia;COVID
+12/03/2021;Male;49;Valencia;COVID
+12/03/2021;Male;3;Valencia;COVID
+12/03/2021;Male;50;Valencia;COVID
+12/03/2021;Female;58;Valencia;COVID
+12/03/2021;Female;51;Mérida;COVID
+12/03/2021;Male;31;Mérida;COVID
+12/03/2021;Female;11;Mérida;COVID
+12/03/2021;Female;58;Mérida;COVID
+12/03/2021;Female;52;Mérida;COVID
+12/03/2021;Female;82;Mérida;COVID
+12/03/2021;Female;56;Santiago;COVID
+12/03/2021;Male;40;Santiago;COVID
+15/03/2021;Female;21;Santiago;COVID
+15/03/2021;Female;60;Santiago;COVID
+15/03/2021;Female;34;Santiago;COVID
+15/03/2021;Female;75;Santiago;COVID
+15/03/2021;Male;51;Madrid;COVID
+15/03/2021;Female;13;Madrid;COVID
+15/03/2021;Male;51;Madrid;COVID
+15/03/2021;Female;34;Madrid;COVID
+15/03/2021;Male;33;Madrid;COVID
+15/03/2021;Female;46;Madrid;COVID
+15/03/2021;Female;40;Murcia, Región de;COVID
+15/03/2021;Female;60;Murcia, Región de;COVID
+15/03/2021;Male;4;Murcia, Región de;COVID
+15/03/2021;Male;66;Murcia, Región de;COVID
+15/03/2021;Male;81;Murcia, Región de;COVID
+15/03/2021;Female;43;Murcia, Región de;COVID
+15/03/2021;Male;32;Navarra, Comunidad Foral de;COVID
+15/03/2021;Female;37;Navarra, Comunidad Foral de;COVID
+15/03/2021;Male;4;Navarra, Comunidad Foral de;COVID
+15/03/2021;Female;36;Navarra, Comunidad Foral de;COVID
+16/03/2021;Male;32;Navarra, Comunidad Foral de;COVID
+16/03/2021;Female;68;Navarra, Comunidad Foral de;COVID
+16/03/2021;Male;14;Bilbao;COVID
+16/03/2021;Male;7;Bilbao;COVID
+16/03/2021;Female;40;Bilbao;COVID
+16/03/2021;Male;26;Bilbao;COVID
+16/03/2021;Male;27;Bilbao;COVID
+16/03/2021;Male;30;Bilbao;COVID
+16/03/2021;Female;15;Rioja, La;COVID
+16/03/2021;Male;58;Rioja, La;COVID
+16/03/2021;Female;20;Rioja, La;COVID
+16/03/2021;Male;79;Rioja, La;COVID
+16/03/2021;Female;27;Rioja, La;COVID
+16/03/2021;Male;52;Rioja, La;COVID
+16/03/2021;Female;4;Ceuta;COVID
+16/03/2021;Female;43;Ceuta;COVID
+16/03/2021;Female;41;Ceuta;COVID
+16/03/2021;Female;80;Ceuta;COVID
+16/03/2021;Male;16;Ceuta;COVID
+16/03/2021;Female;55;Ceuta;COVID
+17/03/2021;Female;77;Melilla;COVID
+17/03/2021;Female;65;Melilla;COVID
+17/03/2021;Male;11;Melilla;COVID
+17/03/2021;Male;65;Melilla;COVID
+17/03/2021;Female;82;Melilla;COVID
+17/03/2021;Female;77;Melilla;COVID
+17/03/2021;Male;80;Sevilla;COVID
+17/03/2021;Female;29;Sevilla;COVID
+17/03/2021;Female;50;Sevilla;COVID
+17/03/2021;Female;18;Sevilla;COVID
+17/03/2021;Male;7;Sevilla;COVID
+17/03/2021;Male;66;Sevilla;COVID
+17/03/2021;Female;34;Zaragoza;COVID
+17/03/2021;Male;73;Zaragoza;COVID
+17/03/2021;Female;51;Zaragoza;COVID
+17/03/2021;Female;58;Zaragoza;COVID
+17/03/2021;Female;49;Zaragoza;COVID
+17/03/2021;Female;34;Zaragoza;COVID
+17/03/2021;Male;54;Oviedo;COVID
+17/03/2021;Male;81;Oviedo;COVID
+18/03/2021;Female;26;Oviedo;COVID
+18/03/2021;Female;17;Oviedo;COVID
+18/03/2021;Female;76;Oviedo;COVID
+18/03/2021;Female;69;Oviedo;COVID
+18/03/2021;Female;58;Palma_Mallorca, Illes;COVID
+18/03/2021;Female;44;Palma_Mallorca, Illes;COVID
+18/03/2021;Female;10;Palma_Mallorca, Illes;COVID
+18/03/2021;Male;68;Palma_Mallorca, Illes;COVID
+18/03/2021;Male;66;Palma_Mallorca, Illes;COVID
+18/03/2021;Male;5;Palma_Mallorca, Illes;COVID
+18/03/2021;Female;82;Las_Palmas;COVID
+18/03/2021;Male;79;Las_Palmas;COVID
+18/03/2021;Female;34;Las_Palmas;COVID
+18/03/2021;Female;50;Las_Palmas;COVID
+18/03/2021;Female;44;Las_Palmas;COVID
+18/03/2021;Female;69;Las_Palmas;COVID
+18/03/2021;Male;64;Santander;COVID
+18/03/2021;Male;68;Santander;COVID
+18/03/2021;Female;64;Santander;COVID
+18/03/2021;Female;50;Santander;COVID
+22/03/2021;Female;68;Santander;COVID
+22/03/2021;Female;8;Santander;COVID
+22/03/2021;Female;35;Valladolid;COVID
+22/03/2021;Female;13;Valladolid;COVID
+22/03/2021;Male;56;Valladolid;COVID
+22/03/2021;Male;29;Valladolid;COVID
+22/03/2021;Female;3;Valladolid;COVID
+22/03/2021;Female;48;Valladolid;COVID
+22/03/2021;Female;71;Toledo;COVID
+22/03/2021;Female;23;Toledo;COVID
+22/03/2021;Male;62;Toledo;COVID
+22/03/2021;Male;16;Toledo;COVID
+22/03/2021;Female;23;Toledo;COVID
+22/03/2021;Female;43;Toledo;COVID
+22/03/2021;Male;27;Barcelona;COVID
+22/03/2021;Male;42;Barcelona;COVID
+22/03/2021;Male;52;Barcelona;COVID
+22/03/2021;Male;3;Barcelona;COVID
+22/03/2021;Female;28;Barcelona;COVID
+22/03/2021;Male;51;Barcelona;COVID
+23/03/2021;Female;39;Valencia;COVID
+23/03/2021;Female;57;Valencia;COVID
+23/03/2021;Male;54;Valencia;COVID
+23/03/2021;Female;17;Valencia;COVID
+23/03/2021;Male;56;Valencia;COVID
+23/03/2021;Female;48;Valencia;COVID
+23/03/2021;Male;53;Mérida;COVID
+23/03/2021;Female;47;Mérida;COVID
+23/03/2021;Female;59;Mérida;COVID
+23/03/2021;Male;35;Mérida;COVID
+23/03/2021;Female;65;Mérida;COVID
+23/03/2021;Female;59;Mérida;COVID
+23/03/2021;Female;43;Santiago;COVID
+23/03/2021;Male;61;Santiago;COVID
+23/03/2021;Male;64;Santiago;COVID
+23/03/2021;Female;78;Santiago;COVID
+23/03/2021;Male;67;Santiago;COVID
+23/03/2021;Female;55;Santiago;COVID
+23/03/2021;Female;3;Madrid;COVID
+23/03/2021;Male;29;Madrid;COVID
+24/03/2021;Female;62;Madrid;COVID
+24/03/2021;Male;48;Madrid;COVID
+24/03/2021;Female;59;Madrid;COVID
+24/03/2021;Female;43;Madrid;COVID
+24/03/2021;Female;72;Murcia, Región de;COVID
+24/03/2021;Female;8;Murcia, Región de;COVID
+24/03/2021;Male;55;Murcia, Región de;COVID
+24/03/2021;Male;26;Murcia, Región de;COVID
+24/03/2021;Male;10;Murcia, Región de;COVID
+24/03/2021;Male;18;Murcia, Región de;COVID
+24/03/2021;Male;11;Navarra, Comunidad Foral de;COVID
+24/03/2021;Female;60;Navarra, Comunidad Foral de;COVID
+24/03/2021;Male;52;Navarra, Comunidad Foral de;COVID
+24/03/2021;Female;46;Navarra, Comunidad Foral de;COVID
+24/03/2021;Female;59;Navarra, Comunidad Foral de;COVID
+24/03/2021;Female;51;Navarra, Comunidad Foral de;COVID
+24/03/2021;Female;40;Bilbao;COVID
+24/03/2021;Male;55;Bilbao;COVID
+24/03/2021;Female;22;Bilbao;COVID
+24/03/2021;Female;5;Bilbao;COVID
+24/03/2021;Female;8;Bilbao;COVID
+25/03/2021;Female;27;Bilbao;COVID
+25/03/2021;Female;39;Rioja, La;COVID
+25/03/2021;Female;78;Rioja, La;COVID
+25/03/2021;Female;55;Rioja, La;COVID
+25/03/2021;Female;19;Rioja, La;COVID
+25/03/2021;Female;8;Rioja, La;COVID
+25/03/2021;Male;20;Rioja, La;COVID
+25/03/2021;Female;42;Ceuta;COVID
+25/03/2021;Female;79;Ceuta;COVID
+25/03/2021;Female;36;Ceuta;COVID
+25/03/2021;Male;56;Ceuta;COVID
+25/03/2021;Female;18;Ceuta;COVID
+25/03/2021;Female;11;Ceuta;COVID
+25/03/2021;Male;23;Melilla;COVID
+25/03/2021;Female;8;Melilla;COVID
+25/03/2021;Male;14;Melilla;COVID
+25/03/2021;Female;31;Melilla;COVID
+25/03/2021;Female;50;Melilla;COVID
+25/03/2021;Male;45;Melilla;COVID
+25/03/2021;Female;38;Sevilla;COVID
+25/03/2021;Male;51;Sevilla;COVID
+26/03/2021;Female;38;Sevilla;COVID
+26/03/2021;Female;54;Sevilla;COVID
+26/03/2021;Female;3;Sevilla;COVID
+26/03/2021;Male;68;Sevilla;COVID
+26/03/2021;Male;30;Zaragoza;COVID
+26/03/2021;Male;68;Zaragoza;COVID
+26/03/2021;Female;23;Zaragoza;COVID
+26/03/2021;Male;34;Zaragoza;COVID
+26/03/2021;Male;9;Zaragoza;COVID
+26/03/2021;Female;41;Zaragoza;COVID
+26/03/2021;Female;7;Oviedo;COVID
+26/03/2021;Male;51;Oviedo;COVID
+26/03/2021;Female;53;Oviedo;COVID
+26/03/2021;Female;74;Oviedo;COVID
+26/03/2021;Male;80;Oviedo;COVID
+26/03/2021;Female;18;Oviedo;COVID
+26/03/2021;Male;53;Palma_Mallorca, Illes;COVID
+26/03/2021;Female;46;Palma_Mallorca, Illes;COVID
+26/03/2021;Female;30;Palma_Mallorca, Illes;COVID
+26/03/2021;Male;81;Palma_Mallorca, Illes;COVID
+26/03/2021;Female;23;Palma_Mallorca, Illes;COVID
+29/03/2021;Female;31;Palma_Mallorca, Illes;COVID
+29/03/2021;Male;54;Las_Palmas;COVID
+29/03/2021;Male;44;Las_Palmas;COVID
+29/03/2021;Female;70;Las_Palmas;COVID
+29/03/2021;Female;67;Las_Palmas;COVID
+29/03/2021;Female;49;Las_Palmas;COVID
+29/03/2021;Male;54;Las_Palmas;COVID
+29/03/2021;Female;36;Santander;COVID
+29/03/2021;Female;11;Santander;COVID
+29/03/2021;Female;50;Santander;COVID
+29/03/2021;Male;8;Santander;COVID
+29/03/2021;Female;43;Santander;COVID
+29/03/2021;Male;30;Santander;COVID
+29/03/2021;Female;56;Valladolid;COVID
+29/03/2021;Female;49;Valladolid;COVID
+29/03/2021;Female;26;Valladolid;COVID
+29/03/2021;Female;71;Valladolid;COVID
+29/03/2021;Female;77;Valladolid;COVID
+29/03/2021;Female;11;Valladolid;COVID
+29/03/2021;Female;24;Toledo;COVID
+29/03/2021;Female;30;Toledo;COVID
+30/03/2021;Male;68;Toledo;COVID
+30/03/2021;Male;77;Toledo;COVID
+30/03/2021;Male;70;Toledo;COVID
+30/03/2021;Male;2;Toledo;COVID
+30/03/2021;Male;39;Barcelona;COVID
+30/03/2021;Male;8;Barcelona;COVID
+30/03/2021;Female;32;Barcelona;COVID
+30/03/2021;Female;21;Barcelona;COVID
+30/03/2021;Male;50;Barcelona;COVID
+30/03/2021;Female;33;Barcelona;COVID
+30/03/2021;Male;8;Valencia;COVID
+30/03/2021;Female;40;Valencia;COVID
+30/03/2021;Male;63;Valencia;COVID
+30/03/2021;Female;53;Valencia;COVID
+30/03/2021;Female;51;Valencia;COVID
+30/03/2021;Male;50;Valencia;COVID
+30/03/2021;Male;36;Mérida;COVID
+30/03/2021;Female;65;Mérida;COVID
+30/03/2021;Female;47;Mérida;COVID
+30/03/2021;Female;54;Mérida;COVID
+30/03/2021;Female;32;Mérida;COVID
+31/03/2021;Male;25;Mérida;COVID
+31/03/2021;Female;43;Santiago;COVID
+31/03/2021;Female;82;Santiago;COVID
+31/03/2021;Male;55;Santiago;COVID
+31/03/2021;Female;37;Santiago;COVID
+31/03/2021;Female;80;Santiago;COVID
+31/03/2021;Female;8;Santiago;COVID
+31/03/2021;Male;63;Madrid;COVID
+31/03/2021;Male;26;Madrid;COVID
+31/03/2021;Male;67;Madrid;COVID
+31/03/2021;Male;46;Madrid;COVID
+31/03/2021;Male;56;Madrid;COVID
+31/03/2021;Male;2;Madrid;COVID
+31/03/2021;Male;56;Murcia, Región de;COVID
+31/03/2021;Female;31;Murcia, Región de;COVID
+31/03/2021;Female;46;Murcia, Región de;COVID
+31/03/2021;Female;27;Murcia, Región de;COVID
+31/03/2021;Female;10;Murcia, Región de;COVID
+31/03/2021;Female;34;Murcia, Región de;COVID
+31/03/2021;Female;7;Navarra, Comunidad Foral de;COVID
+31/03/2021;Female;52;Navarra, Comunidad Foral de;COVID
+01/04/2021;Female;17;Navarra, Comunidad Foral de;COVID
+01/04/2021;Female;11;Navarra, Comunidad Foral de;COVID
+01/04/2021;Female;49;Navarra, Comunidad Foral de;COVID
+01/04/2021;Male;42;Navarra, Comunidad Foral de;COVID
+01/04/2021;Female;41;Bilbao;COVID
+01/04/2021;Male;41;Bilbao;COVID
+01/04/2021;Female;52;Bilbao;COVID
+01/04/2021;Female;19;Bilbao;COVID
+01/04/2021;Male;33;Bilbao;COVID
+01/04/2021;Female;57;Bilbao;COVID
+01/04/2021;Female;69;Rioja, La;COVID
+01/04/2021;Female;62;Rioja, La;COVID
+01/04/2021;Male;47;Rioja, La;COVID
+01/04/2021;Female;32;Rioja, La;COVID
+01/04/2021;Female;54;Rioja, La;COVID
+01/04/2021;Female;38;Rioja, La;COVID
+01/04/2021;Female;28;Ceuta;COVID
+01/04/2021;Female;56;Ceuta;COVID
+01/04/2021;Female;76;Ceuta;COVID
+01/04/2021;Male;9;Ceuta;COVID
+01/04/2021;Female;2;Ceuta;COVID
+03/04/2021;Female;30;Ceuta;COVID
+03/04/2021;Female;26;Melilla;COVID
+03/04/2021;Female;72;Melilla;COVID
+03/04/2021;Female;26;Melilla;COVID
+03/04/2021;Male;18;Melilla;COVID
+03/04/2021;Female;58;Melilla;COVID
+03/04/2021;Female;52;Melilla;COVID
+03/04/2021;Female;32;Sevilla;COVID
+03/04/2021;Male;66;Sevilla;COVID
+03/04/2021;Female;28;Sevilla;COVID
+03/04/2021;Female;9;Sevilla;COVID
+03/04/2021;Female;47;Sevilla;COVID
+03/04/2021;Female;11;Sevilla;COVID
+03/04/2021;Female;43;Zaragoza;COVID
+03/04/2021;Female;71;Zaragoza;COVID
+03/04/2021;Male;80;Zaragoza;COVID
+03/04/2021;Male;2;Zaragoza;COVID
+03/04/2021;Female;46;Zaragoza;COVID
+03/04/2021;Female;62;Zaragoza;COVID
+03/04/2021;Female;41;Oviedo;COVID
+03/04/2021;Female;40;Oviedo;COVID
+05/04/2021;Female;73;Oviedo;COVID
+05/04/2021;Male;42;Oviedo;COVID
+05/04/2021;Female;35;Oviedo;COVID
+05/04/2021;Female;54;Oviedo;COVID
+05/04/2021;Female;64;Palma_Mallorca, Illes;COVID
+05/04/2021;Male;16;Palma_Mallorca, Illes;COVID
+05/04/2021;Female;16;Palma_Mallorca, Illes;COVID
+05/04/2021;Male;36;Palma_Mallorca, Illes;COVID
+05/04/2021;Female;54;Palma_Mallorca, Illes;COVID
+05/04/2021;Female;78;Palma_Mallorca, Illes;COVID
+05/04/2021;Female;4;Las_Palmas;COVID
+05/04/2021;Female;31;Las_Palmas;COVID
+05/04/2021;Male;73;Las_Palmas;COVID
+05/04/2021;Female;25;Las_Palmas;COVID
+05/04/2021;Male;22;Las_Palmas;COVID
+05/04/2021;Female;46;Las_Palmas;COVID
+05/04/2021;Male;44;Santander;COVID
+05/04/2021;Female;52;Santander;COVID
+05/04/2021;Male;3;Santander;COVID
+05/04/2021;Female;28;Santander;COVID
+05/04/2021;Female;51;Santander;COVID
+06/04/2021;Female;81;Santander;COVID
+06/04/2021;Female;67;Valladolid;COVID
+06/04/2021;Female;71;Valladolid;COVID
+06/04/2021;Male;43;Valladolid;COVID
+06/04/2021;Male;7;Valladolid;COVID
+06/04/2021;Male;17;Valladolid;COVID
+06/04/2021;Female;67;Valladolid;ZIKA
+06/04/2021;Female;80;Toledo;ZIKA
+06/04/2021;Female;3;Toledo;ZIKA
+06/04/2021;Female;51;Toledo;ZIKA
+06/04/2021;Male;57;Toledo;ZIKA
+06/04/2021;Male;32;Toledo;ZIKA
+06/04/2021;Male;63;Toledo;ZIKA
+06/04/2021;Female;71;Barcelona;ZIKA
+06/04/2021;Female;31;Barcelona;ZIKA
+06/04/2021;Female;38;Barcelona;ZIKA
+06/04/2021;Male;63;Barcelona;ZIKA
+06/04/2021;Female;39;Barcelona;ZIKA
+06/04/2021;Female;54;Barcelona;ZIKA
+06/04/2021;Male;72;Valencia;ZIKA
+06/04/2021;Male;3;Valencia;ZIKA
+07/04/2021;Female;55;Valencia;ZIKA
+07/04/2021;Male;69;Valencia;ZIKA
+07/04/2021;Female;41;Valencia;ZIKA
+07/04/2021;Female;75;Valencia;ZIKA
+07/04/2021;Male;15;Mérida;ZIKA
+07/04/2021;Female;57;Mérida;ZIKA
+07/04/2021;Female;27;Mérida;ZIKA
+07/04/2021;Male;50;Mérida;ZIKA
+07/04/2021;Male;47;Mérida;ZIKA
+07/04/2021;Female;34;Mérida;ZIKA
+07/04/2021;Male;56;Santiago;ZIKA
+07/04/2021;Female;9;Santiago;ZIKA
+07/04/2021;Female;48;Santiago;ZIKA
+07/04/2021;Male;37;Santiago;ZIKA
+07/04/2021;Female;30;Santiago;ZIKA
+07/04/2021;Male;66;Santiago;ZIKA
+07/04/2021;Female;21;Madrid;ZIKA
+07/04/2021;Male;46;Madrid;ZIKA
+07/04/2021;Female;6;Madrid;ZIKA
+07/04/2021;Female;50;Madrid;ZIKA
+07/04/2021;Male;57;Madrid;ZIKA
+08/04/2021;Female;72;Madrid;ZIKA
+08/04/2021;Female;68;Murcia, Región de;ZIKA
+08/04/2021;Female;63;Murcia, Región de;ZIKA
+08/04/2021;Male;34;Murcia, Región de;ZIKA
+08/04/2021;Male;56;Murcia, Región de;ZIKA
+08/04/2021;Female;60;Murcia, Región de;ZIKA
+08/04/2021;Male;65;Murcia, Región de;ZIKA
+08/04/2021;Female;79;Navarra, Comunidad Foral de;ZIKA
+08/04/2021;Female;36;Navarra, Comunidad Foral de;ZIKA
+08/04/2021;Male;57;Navarra, Comunidad Foral de;ZIKA
+08/04/2021;Male;55;Navarra, Comunidad Foral de;ZIKA
+08/04/2021;Male;10;Navarra, Comunidad Foral de;ZIKA
+08/04/2021;Female;21;Navarra, Comunidad Foral de;ZIKA
+08/04/2021;Female;26;Bilbao;ZIKA
+08/04/2021;Male;33;Bilbao;ZIKA
+08/04/2021;Female;39;Bilbao;ZIKA
+08/04/2021;Male;39;Bilbao;ZIKA
+08/04/2021;Female;2;Bilbao;ZIKA
+08/04/2021;Female;28;Bilbao;ZIKA
+08/04/2021;Female;79;Rioja, La;ZIKA
+08/04/2021;Male;81;Rioja, La;ZIKA
+09/04/2021;Female;57;Rioja, La;ZIKA
+09/04/2021;Female;64;Rioja, La;ZIKA
+09/04/2021;Male;30;Rioja, La;ZIKA
+09/04/2021;Female;62;Rioja, La;ZIKA
+09/04/2021;Male;5;Ceuta;ZIKA
+09/04/2021;Female;5;Ceuta;ZIKA
+09/04/2021;Female;64;Ceuta;ZIKA
+09/04/2021;Male;69;Ceuta;ZIKA
+09/04/2021;Female;42;Ceuta;ZIKA
+09/04/2021;Male;44;Ceuta;ZIKA
+09/04/2021;Male;52;Melilla;ZIKA
+09/04/2021;Male;74;Melilla;ZIKA
+09/04/2021;Male;59;Melilla;ZIKA
+09/04/2021;Female;69;Melilla;ZIKA
+09/04/2021;Female;72;Melilla;ZIKA
+09/04/2021;Female;52;Melilla;ZIKA
+09/04/2021;Female;58;Sevilla;ZIKA
+09/04/2021;Female;36;Sevilla;ZIKA
+09/04/2021;Female;41;Sevilla;ZIKA
+09/04/2021;Female;82;Sevilla;ZIKA
+09/04/2021;Female;15;Sevilla;ZIKA
+12/04/2021;Male;55;Sevilla;ZIKA
+12/04/2021;Male;75;Zaragoza;ZIKA
+12/04/2021;Female;50;Zaragoza;ZIKA
+12/04/2021;Male;46;Zaragoza;ZIKA
+12/04/2021;Male;72;Zaragoza;ZIKA
+12/04/2021;Female;78;Zaragoza;ZIKA
+12/04/2021;Female;60;Zaragoza;ZIKA
+12/04/2021;Female;39;Oviedo;ZIKA
+12/04/2021;Female;60;Oviedo;ZIKA
+12/04/2021;Male;23;Oviedo;ZIKA
+12/04/2021;Female;45;Oviedo;ZIKA
+12/04/2021;Male;36;Oviedo;ZIKA
+12/04/2021;Male;8;Oviedo;ZIKA
+12/04/2021;Female;56;Palma_Mallorca, Illes;ZIKA
+12/04/2021;Female;6;Palma_Mallorca, Illes;ZIKA
+12/04/2021;Male;10;Palma_Mallorca, Illes;ZIKA
+12/04/2021;Male;38;Palma_Mallorca, Illes;ZIKA
+12/04/2021;Female;17;Palma_Mallorca, Illes;ZIKA
+12/04/2021;Female;41;Palma_Mallorca, Illes;ZIKA
+12/04/2021;Female;7;Las_Palmas;ZIKA
+12/04/2021;Female;51;Las_Palmas;ZIKA
+13/04/2021;Female;58;Las_Palmas;ZIKA
+13/04/2021;Male;12;Las_Palmas;ZIKA
+13/04/2021;Male;30;Las_Palmas;ZIKA
+13/04/2021;Female;52;Las_Palmas;ZIKA
+13/04/2021;Male;27;Santander;ZIKA
+13/04/2021;Female;43;Santander;ZIKA
+13/04/2021;Female;47;Santander;ZIKA
+13/04/2021;Female;78;Santander;ZIKA
+13/04/2021;Female;16;Santander;ZIKA
+13/04/2021;Female;43;Santander;ZIKA
+13/04/2021;Male;19;Valladolid;ZIKA
+13/04/2021;Female;36;Valladolid;ZIKA
+13/04/2021;Female;61;Valladolid;ZIKA
+13/04/2021;Male;47;Valladolid;ZIKA
+13/04/2021;Female;46;Valladolid;ZIKA
+13/04/2021;Female;32;Valladolid;ZIKA
+13/04/2021;Male;18;Toledo;ZIKA
+13/04/2021;Male;17;Toledo;ZIKA
+13/04/2021;Female;21;Toledo;ZIKA
+13/04/2021;Male;57;Toledo;ZIKA
+13/04/2021;Male;29;Toledo;ZIKA
+14/04/2021;Female;49;Toledo;ZIKA
+14/04/2021;Female;47;Barcelona;ZIKA
+14/04/2021;Female;51;Barcelona;ZIKA
+14/04/2021;Female;60;Barcelona;ZIKA
+14/04/2021;Female;54;Barcelona;ZIKA
+14/04/2021;Female;47;Barcelona;ZIKA
+14/04/2021;Female;79;Barcelona;ZIKA
+14/04/2021;Male;18;Valencia;ZIKA
+14/04/2021;Female;32;Valencia;ZIKA
+14/04/2021;Female;44;Valencia;ZIKA
+14/04/2021;Female;72;Valencia;ZIKA
+14/04/2021;Male;4;Valencia;ZIKA
+14/04/2021;Female;53;Valencia;ZIKA
+14/04/2021;Female;78;Mérida;ZIKA
+14/04/2021;Female;23;Mérida;ZIKA
+14/04/2021;Female;16;Mérida;ZIKA
+14/04/2021;Female;65;Mérida;ZIKA
+14/04/2021;Female;23;Mérida;ZIKA
+14/04/2021;Female;36;Mérida;ZIKA
+14/04/2021;Female;68;Santiago;ZIKA
+14/04/2021;Female;47;Santiago;ZIKA
+15/04/2021;Male;61;Santiago;ZIKA
+15/04/2021;Male;32;Santiago;ZIKA
+15/04/2021;Female;32;Santiago;ZIKA
+15/04/2021;Male;2;Santiago;ZIKA
+15/04/2021;Male;53;Madrid;ZIKA
+15/04/2021;Female;47;Madrid;ZIKA
+15/04/2021;Male;38;Madrid;ZIKA
+15/04/2021;Female;47;Madrid;ZIKA
+15/04/2021;Female;56;Madrid;ZIKA
+15/04/2021;Female;30;Madrid;ZIKA
+15/04/2021;Female;82;Murcia, Región de;ZIKA
+15/04/2021;Female;43;Murcia, Región de;ZIKA
+15/04/2021;Male;40;Murcia, Región de;ZIKA
+15/04/2021;Male;66;Murcia, Región de;ZIKA
+15/04/2021;Female;30;Murcia, Región de;ZIKA
+15/04/2021;Male;13;Murcia, Región de;ZIKA
+15/04/2021;Female;40;Navarra, Comunidad Foral de;ZIKA
+15/04/2021;Male;13;Navarra, Comunidad Foral de;ZIKA
+15/04/2021;Female;29;Navarra, Comunidad Foral de;ZIKA
+15/04/2021;Female;24;Navarra, Comunidad Foral de;ZIKA
+15/04/2021;Female;25;Navarra, Comunidad Foral de;ZIKA
+16/04/2021;Female;5;Navarra, Comunidad Foral de;ZIKA
+16/04/2021;Male;34;Bilbao;ZIKA
+16/04/2021;Female;29;Bilbao;ZIKA
+16/04/2021;Female;29;Bilbao;ZIKA
+16/04/2021;Female;33;Bilbao;ZIKA
+16/04/2021;Female;23;Bilbao;ZIKA
+16/04/2021;Female;56;Bilbao;ZIKA
+16/04/2021;Female;35;Rioja, La;ZIKA
+16/04/2021;Female;17;Rioja, La;ZIKA
+16/04/2021;Male;79;Rioja, La;ZIKA
+16/04/2021;Female;47;Rioja, La;ZIKA
+16/04/2021;Female;46;Rioja, La;ZIKA
+16/04/2021;Male;48;Rioja, La;ZIKA
+16/04/2021;Female;13;Ceuta;ZIKA
+16/04/2021;Male;64;Ceuta;ZIKA
+16/04/2021;Female;30;Ceuta;ZIKA
+16/04/2021;Female;44;Ceuta;ZIKA
+16/04/2021;Female;34;Ceuta;ZIKA
+16/04/2021;Female;29;Ceuta;ZIKA
+16/04/2021;Male;58;Melilla;ZIKA
+16/04/2021;Male;23;Melilla;ZIKA
+19/04/2021;Female;24;Melilla;ZIKA
+19/04/2021;Female;77;Melilla;ZIKA
+19/04/2021;Male;19;Melilla;ZIKA
+19/04/2021;Female;34;Melilla;ZIKA
+19/04/2021;Female;46;Sevilla;ZIKA
+19/04/2021;Female;77;Sevilla;ZIKA
+19/04/2021;Male;31;Sevilla;ZIKA
+19/04/2021;Male;36;Sevilla;ZIKA
+19/04/2021;Male;81;Sevilla;ZIKA
+19/04/2021;Male;73;Sevilla;ZIKA
+19/04/2021;Female;16;Zaragoza;ZIKA
+19/04/2021;Female;44;Zaragoza;ZIKA
+19/04/2021;Female;15;Zaragoza;ZIKA
+19/04/2021;Male;67;Zaragoza;ZIKA
+19/04/2021;Male;62;Zaragoza;ZIKA
+19/04/2021;Female;68;Zaragoza;ZIKA
+19/04/2021;Male;50;Oviedo;ZIKA
+19/04/2021;Female;20;Oviedo;ZIKA
+19/04/2021;Male;34;Oviedo;ZIKA
+19/04/2021;Female;46;Oviedo;ZIKA
+19/04/2021;Female;17;Oviedo;ZIKA
+20/04/2021;Male;48;Oviedo;ZIKA
+20/04/2021;Female;79;Palma_Mallorca, Illes;ZIKA
+20/04/2021;Female;50;Palma_Mallorca, Illes;ZIKA
+20/04/2021;Male;48;Palma_Mallorca, Illes;ZIKA
+20/04/2021;Female;69;Palma_Mallorca, Illes;ZIKA
+20/04/2021;Female;62;Palma_Mallorca, Illes;ZIKA
+20/04/2021;Female;28;Palma_Mallorca, Illes;ZIKA
+20/04/2021;Male;11;Las_Palmas;ZIKA
+20/04/2021;Female;22;Las_Palmas;ZIKA
+20/04/2021;Male;9;Las_Palmas;ZIKA
+20/04/2021;Male;72;Las_Palmas;ZIKA
+20/04/2021;Female;28;Las_Palmas;ZIKA
+20/04/2021;Female;65;Las_Palmas;ZIKA
+20/04/2021;Female;43;Santander;ZIKA
+20/04/2021;Male;54;Santander;ZIKA
+20/04/2021;Female;39;Santander;ZIKA
+20/04/2021;Female;17;Santander;ZIKA
+20/04/2021;Female;68;Santander;ZIKA
+20/04/2021;Female;61;Santander;ZIKA
+20/04/2021;Male;36;Valladolid;ZIKA
+20/04/2021;Female;64;Valladolid;ZIKA
+21/04/2021;Female;24;Valladolid;ZIKA
+21/04/2021;Male;26;Valladolid;ZIKA
+21/04/2021;Male;32;Valladolid;ZIKA
+21/04/2021;Male;44;Valladolid;ZIKA
+21/04/2021;Female;62;Toledo;ZIKA
+21/04/2021;Male;58;Toledo;ZIKA
+21/04/2021;Female;24;Toledo;ZIKA
+21/04/2021;Male;76;Toledo;ZIKA
+21/04/2021;Male;27;Toledo;ZIKA
+21/04/2021;Female;14;Toledo;ZIKA
+21/04/2021;Female;18;Barcelona;ZIKA
+21/04/2021;Female;28;Barcelona;ZIKA
+21/04/2021;Female;43;Barcelona;ZIKA
+21/04/2021;Female;22;Barcelona;ZIKA
+21/04/2021;Male;42;Barcelona;ZIKA
+21/04/2021;Female;72;Barcelona;ZIKA
+21/04/2021;Male;40;Valencia;ZIKA
+21/04/2021;Female;2;Valencia;ZIKA
+21/04/2021;Female;82;Valencia;ZIKA
+21/04/2021;Female;52;Valencia;ZIKA
+21/04/2021;Male;3;Valencia;ZIKA
+22/04/2021;Male;62;Valencia;ZIKA
+22/04/2021;Male;81;Mérida;ZIKA
+22/04/2021;Male;36;Mérida;ZIKA
+22/04/2021;Male;80;Mérida;ZIKA
+22/04/2021;Male;80;Mérida;ZIKA
+22/04/2021;Female;55;Mérida;ZIKA
+22/04/2021;Female;47;Mérida;ZIKA
+22/04/2021;Male;58;Santiago;ZIKA
+22/04/2021;Male;24;Santiago;ZIKA
+22/04/2021;Male;40;Santiago;ZIKA
+22/04/2021;Male;60;Santiago;ZIKA
+22/04/2021;Male;10;Santiago;ZIKA
+22/04/2021;Female;75;Santiago;ZIKA
+22/04/2021;Male;71;Madrid;ZIKA
+22/04/2021;Female;5;Madrid;ZIKA
+22/04/2021;Male;23;Madrid;ZIKA
+22/04/2021;Female;74;Madrid;ZIKA
+22/04/2021;Female;33;Madrid;ZIKA
+22/04/2021;Female;42;Madrid;ZIKA
+22/04/2021;Female;44;Murcia, Región de;ZIKA
+22/04/2021;Female;31;Murcia, Región de;ZIKA
+23/04/2021;Male;38;Murcia, Región de;ZIKA
+23/04/2021;Female;33;Murcia, Región de;ZIKA
+23/04/2021;Female;44;Murcia, Región de;ZIKA
+23/04/2021;Female;51;Murcia, Región de;ZIKA
+23/04/2021;Male;79;Navarra, Comunidad Foral de;ZIKA
+23/04/2021;Male;51;Navarra, Comunidad Foral de;ZIKA
+23/04/2021;Male;73;Navarra, Comunidad Foral de;ZIKA
+23/04/2021;Male;81;Navarra, Comunidad Foral de;ZIKA
+23/04/2021;Female;32;Navarra, Comunidad Foral de;ZIKA
+23/04/2021;Female;53;Navarra, Comunidad Foral de;ZIKA
+23/04/2021;Female;55;Bilbao;ZIKA
+23/04/2021;Male;76;Bilbao;ZIKA
+23/04/2021;Male;43;Bilbao;ZIKA
+23/04/2021;Male;35;Bilbao;ZIKA
+23/04/2021;Female;29;Bilbao;ZIKA
+23/04/2021;Female;40;Bilbao;ZIKA
+23/04/2021;Female;2;Rioja, La;ZIKA
+23/04/2021;Male;60;Rioja, La;ZIKA
+23/04/2021;Male;47;Rioja, La;ZIKA
+23/04/2021;Female;60;Rioja, La;ZIKA
+23/04/2021;Female;13;Rioja, La;ZIKA
+26/04/2021;Female;57;Rioja, La;ZIKA
+26/04/2021;Male;8;Ceuta;ZIKA
+26/04/2021;Male;49;Ceuta;ZIKA
+26/04/2021;Male;63;Ceuta;ZIKA
+26/04/2021;Male;37;Ceuta;ZIKA
+26/04/2021;Female;49;Ceuta;ZIKA
+26/04/2021;Female;11;Ceuta;ZIKA
+26/04/2021;Female;78;Melilla;ZIKA
+26/04/2021;Male;26;Melilla;ZIKA
+26/04/2021;Female;46;Melilla;ZIKA
+26/04/2021;Male;44;Melilla;ZIKA
+26/04/2021;Female;38;Melilla;ZIKA
+26/04/2021;Female;70;Melilla;ZIKA
+26/04/2021;Male;18;Sevilla;ZIKA
+26/04/2021;Female;9;Sevilla;ZIKA
+26/04/2021;Male;80;Sevilla;ZIKA
+26/04/2021;Male;43;Sevilla;ZIKA
+26/04/2021;Female;2;Sevilla;ZIKA
+26/04/2021;Male;61;Sevilla;ZIKA
+26/04/2021;Male;58;Zaragoza;ZIKA
+26/04/2021;Female;18;Zaragoza;ZIKA
+27/04/2021;Female;67;Zaragoza;ZIKA
+27/04/2021;Male;38;Zaragoza;ZIKA
+27/04/2021;Male;5;Zaragoza;ZIKA
+27/04/2021;Female;2;Zaragoza;ZIKA
+27/04/2021;Male;5;Oviedo;ZIKA
+27/04/2021;Female;47;Oviedo;ZIKA
+27/04/2021;Female;50;Oviedo;ZIKA
+27/04/2021;Male;27;Oviedo;ZIKA
+27/04/2021;Male;22;Oviedo;ZIKA
+27/04/2021;Male;37;Oviedo;ZIKA
+27/04/2021;Female;38;Palma_Mallorca, Illes;ZIKA
+27/04/2021;Male;4;Palma_Mallorca, Illes;ZIKA
+27/04/2021;Female;40;Palma_Mallorca, Illes;ZIKA
+27/04/2021;Female;48;Palma_Mallorca, Illes;ZIKA
+27/04/2021;Female;44;Palma_Mallorca, Illes;ZIKA
+27/04/2021;Female;52;Palma_Mallorca, Illes;ZIKA
+27/04/2021;Female;18;Las_Palmas;ZIKA
+27/04/2021;Male;42;Las_Palmas;ZIKA
+27/04/2021;Female;19;Las_Palmas;ZIKA
+27/04/2021;Male;74;Las_Palmas;ZIKA
+27/04/2021;Male;29;Las_Palmas;ZIKA
+28/04/2021;Male;61;Las_Palmas;ZIKA
+28/04/2021;Male;54;Santander;ZIKA
+28/04/2021;Male;20;Santander;ZIKA
+28/04/2021;Female;39;Santander;ZIKA
+28/04/2021;Female;12;Santander;ZIKA
+28/04/2021;Female;47;Santander;ZIKA
+28/04/2021;Male;31;Santander;ZIKA
+28/04/2021;Female;46;Valladolid;ZIKA
+28/04/2021;Female;72;Valladolid;ZIKA
+28/04/2021;Male;66;Valladolid;ZIKA
+28/04/2021;Female;49;Valladolid;ZIKA
+28/04/2021;Male;50;Valladolid;ZIKA
+28/04/2021;Female;77;Valladolid;ZIKA
+28/04/2021;Male;6;Toledo;ZIKA
+28/04/2021;Male;49;Toledo;ZIKA
+28/04/2021;Female;54;Toledo;ZIKA
+28/04/2021;Female;44;Toledo;ZIKA
+28/04/2021;Female;33;Toledo;ZIKA
+28/04/2021;Female;8;Toledo;ZIKA
+28/04/2021;Female;72;Barcelona;ZIKA
+28/04/2021;Female;22;Barcelona;ZIKA
+29/04/2021;Female;41;Barcelona;ZIKA
+29/04/2021;Female;58;Barcelona;ZIKA
+29/04/2021;Female;16;Barcelona;ZIKA
+29/04/2021;Male;64;Barcelona;ZIKA
+29/04/2021;Male;75;Valencia;ZIKA
+29/04/2021;Male;43;Valencia;ZIKA
+29/04/2021;Female;26;Valencia;ZIKA
+29/04/2021;Female;11;Valencia;ZIKA
+29/04/2021;Male;76;Valencia;ZIKA
+29/04/2021;Male;5;Valencia;ZIKA
+29/04/2021;Female;37;Mérida;ZIKA
+29/04/2021;Male;24;Mérida;ZIKA
+29/04/2021;Female;35;Mérida;ZIKA
+29/04/2021;Male;61;Mérida;ZIKA
+29/04/2021;Female;30;Mérida;ZIKA
+29/04/2021;Female;3;Mérida;ZIKA
+29/04/2021;Male;43;Santiago;ZIKA
+29/04/2021;Male;9;Santiago;ZIKA
+29/04/2021;Male;27;Santiago;ZIKA
+29/04/2021;Female;77;Santiago;ZIKA
+29/04/2021;Male;82;Santiago;ZIKA
+30/04/2021;Female;40;Santiago;ZIKA
+30/04/2021;Male;26;Madrid;ZIKA
+30/04/2021;Male;67;Madrid;ZIKA
+30/04/2021;Female;71;Madrid;ZIKA
+30/04/2021;Male;81;Madrid;ZIKA
+30/04/2021;Female;35;Madrid;ZIKA
+30/04/2021;Female;18;Madrid;ZIKA
+30/04/2021;Female;40;Murcia, Región de;ZIKA
+30/04/2021;Female;24;Murcia, Región de;ZIKA
+30/04/2021;Female;56;Murcia, Región de;ZIKA
+30/04/2021;Female;51;Murcia, Región de;ZIKA
+30/04/2021;Female;12;Murcia, Región de;ZIKA
+30/04/2021;Female;36;Murcia, Región de;ZIKA
+30/04/2021;Female;39;Navarra, Comunidad Foral de;ZIKA
+30/04/2021;Male;80;Navarra, Comunidad Foral de;ZIKA
+30/04/2021;Female;56;Navarra, Comunidad Foral de;ZIKA
+30/04/2021;Female;44;Navarra, Comunidad Foral de;ZIKA
+30/04/2021;Male;71;Navarra, Comunidad Foral de;ZIKA
+30/04/2021;Male;69;Navarra, Comunidad Foral de;ZIKA
+30/04/2021;Female;64;Bilbao;ZIKA
+30/04/2021;Female;41;Bilbao;ZIKA
+03/05/2021;Female;27;Bilbao;ZIKA
+03/05/2021;Female;79;Bilbao;ZIKA
+03/05/2021;Male;12;Bilbao;ZIKA
+03/05/2021;Male;55;Bilbao;ZIKA
+03/05/2021;Female;53;Rioja, La;ZIKA
+03/05/2021;Female;45;Rioja, La;ZIKA
+03/05/2021;Male;41;Rioja, La;ZIKA
+03/05/2021;Male;71;Rioja, La;ZIKA
+03/05/2021;Male;41;Rioja, La;ZIKA
+03/05/2021;Female;61;Rioja, La;ZIKA
+03/05/2021;Female;43;Ceuta;ZIKA
+03/05/2021;Female;62;Ceuta;ZIKA
+03/05/2021;Male;11;Ceuta;ZIKA
+03/05/2021;Male;65;Ceuta;ZIKA
+03/05/2021;Female;55;Ceuta;ZIKA
+03/05/2021;Male;13;Ceuta;ZIKA
+03/05/2021;Female;46;Melilla;ZIKA
+03/05/2021;Male;31;Melilla;ZIKA
+03/05/2021;Male;54;Melilla;ZIKA
+03/05/2021;Female;60;Melilla;ZIKA
+03/05/2021;Male;79;Melilla;ZIKA
+04/05/2021;Female;32;Melilla;ZIKA
+04/05/2021;Female;56;Sevilla;ZIKA
+04/05/2021;Female;60;Sevilla;ZIKA
+04/05/2021;Female;33;Sevilla;ZIKA
+04/05/2021;Male;45;Sevilla;ZIKA
+04/05/2021;Male;80;Sevilla;ZIKA
+04/05/2021;Male;57;Sevilla;ZIKA
+04/05/2021;Male;66;Zaragoza;ZIKA
+04/05/2021;Male;7;Zaragoza;ZIKA
+04/05/2021;Female;44;Zaragoza;ZIKA
+04/05/2021;Female;61;Zaragoza;ZIKA
+04/05/2021;Male;53;Zaragoza;ZIKA
+04/05/2021;Male;42;Zaragoza;ZIKA
+04/05/2021;Female;20;Oviedo;ZIKA
+04/05/2021;Male;79;Oviedo;ZIKA
+04/05/2021;Female;29;Oviedo;ZIKA
+04/05/2021;Female;30;Oviedo;ZIKA
+04/05/2021;Female;16;Oviedo;ZIKA
+04/05/2021;Female;24;Oviedo;ZIKA
+04/05/2021;Male;65;Palma_Mallorca, Illes;ZIKA
+04/05/2021;Male;38;Palma_Mallorca, Illes;ZIKA
+05/05/2021;Female;76;Palma_Mallorca, Illes;ZIKA
+05/05/2021;Female;66;Palma_Mallorca, Illes;ZIKA
+05/05/2021;Female;57;Palma_Mallorca, Illes;ZIKA
+05/05/2021;Female;21;Palma_Mallorca, Illes;ZIKA
+05/05/2021;Female;76;Las_Palmas;ZIKA
+05/05/2021;Male;73;Las_Palmas;ZIKA
+05/05/2021;Female;74;Las_Palmas;ZIKA
+05/05/2021;Female;49;Las_Palmas;ZIKA
+05/05/2021;Male;38;Las_Palmas;ZIKA
+05/05/2021;Female;26;Las_Palmas;ZIKA
+05/05/2021;Male;12;Santander;ZIKA
+05/05/2021;Female;8;Santander;ZIKA
+05/05/2021;Female;8;Santander;ZIKA
+05/05/2021;Female;42;Santander;ZIKA
+05/05/2021;Male;57;Santander;ZIKA
+05/05/2021;Female;68;Santander;ZIKA
+05/05/2021;Female;76;Valladolid;ZIKA
+05/05/2021;Female;52;Valladolid;ZIKA
+05/05/2021;Male;59;Valladolid;ZIKA
+05/05/2021;Female;78;Valladolid;ZIKA
+05/05/2021;Male;61;Valladolid;ZIKA
+06/05/2021;Male;61;Valladolid;ZIKA
+06/05/2021;Female;64;Toledo;ZIKA
+06/05/2021;Male;3;Toledo;ZIKA
+06/05/2021;Female;29;Toledo;ZIKA
+06/05/2021;Female;62;Toledo;ZIKA
+06/05/2021;Female;60;Toledo;ZIKA
+06/05/2021;Male;42;Toledo;ZIKA
+06/05/2021;Male;18;Barcelona;ZIKA
+06/05/2021;Female;16;Barcelona;ZIKA
+06/05/2021;Female;46;Barcelona;ZIKA
+06/05/2021;Female;59;Barcelona;ZIKA
+06/05/2021;Female;21;Barcelona;ZIKA
+06/05/2021;Female;44;Barcelona;ZIKA
+06/05/2021;Female;26;Valencia;ZIKA
+06/05/2021;Male;79;Valencia;ZIKA
+06/05/2021;Female;29;Valencia;ZIKA
+06/05/2021;Female;66;Valencia;ZIKA
+06/05/2021;Male;12;Valencia;ZIKA
+06/05/2021;Male;2;Valencia;ZIKA
+06/05/2021;Male;54;Mérida;ZIKA
+06/05/2021;Female;65;Mérida;ZIKA
+07/05/2021;Female;57;Mérida;ZIKA
+07/05/2021;Female;77;Mérida;ZIKA
+07/05/2021;Male;73;Mérida;ZIKA
+07/05/2021;Male;64;Mérida;ZIKA
+07/05/2021;Male;50;Santiago;ZIKA
+07/05/2021;Female;60;Santiago;ZIKA
+07/05/2021;Female;17;Santiago;ZIKA
+07/05/2021;Female;19;Santiago;ZIKA
+07/05/2021;Female;18;Santiago;ZIKA
+07/05/2021;Male;67;Santiago;ZIKA
+07/05/2021;Female;12;Madrid;ZIKA
+07/05/2021;Male;56;Madrid;ZIKA
+07/05/2021;Female;71;Madrid;ZIKA
+07/05/2021;Female;15;Madrid;ZIKA
+07/05/2021;Female;69;Madrid;ZIKA
+07/05/2021;Male;29;Madrid;ZIKA
+07/05/2021;Male;72;Murcia, Región de;ZIKA
+07/05/2021;Male;21;Murcia, Región de;ZIKA
+07/05/2021;Female;15;Murcia, Región de;ZIKA
+07/05/2021;Male;8;Murcia, Región de;ZIKA
+07/05/2021;Male;59;Murcia, Región de;ZIKA
+10/05/2021;Male;42;Murcia, Región de;ZIKA
+10/05/2021;Female;33;Navarra, Comunidad Foral de;ZIKA
+10/05/2021;Male;13;Navarra, Comunidad Foral de;ZIKA
+10/05/2021;Male;44;Navarra, Comunidad Foral de;ZIKA
+10/05/2021;Female;19;Navarra, Comunidad Foral de;ZIKA
+10/05/2021;Male;16;Navarra, Comunidad Foral de;ZIKA
+10/05/2021;Female;29;Navarra, Comunidad Foral de;ZIKA
+10/05/2021;Female;17;Bilbao;ZIKA
+10/05/2021;Male;54;Bilbao;ZIKA
+10/05/2021;Female;82;Bilbao;ZIKA
+10/05/2021;Male;22;Bilbao;ZIKA
+10/05/2021;Male;42;Bilbao;ZIKA
+10/05/2021;Female;53;Bilbao;ZIKA
+10/05/2021;Female;60;Rioja, La;ZIKA
+10/05/2021;Female;37;Rioja, La;ZIKA
+10/05/2021;Female;33;Rioja, La;ZIKA
+10/05/2021;Male;29;Rioja, La;ZIKA
+10/05/2021;Female;27;Rioja, La;ZIKA
+10/05/2021;Female;45;Rioja, La;ZIKA
+10/05/2021;Female;31;Ceuta;ZIKA
+10/05/2021;Female;25;Ceuta;ZIKA
+11/05/2021;Male;7;Ceuta;ZIKA
+11/05/2021;Female;12;Ceuta;ZIKA
+11/05/2021;Female;49;Ceuta;ZIKA
+11/05/2021;Male;34;Ceuta;ZIKA
+11/05/2021;Male;88;Melilla;ZIKA
+11/05/2021;Male;34;Melilla;ZIKA
+11/05/2021;Male;51;Melilla;ZIKA
+11/05/2021;Male;73;Melilla;ZIKA
+11/05/2021;Male;7;Melilla;ZIKA
+11/05/2021;Female;56;Melilla;ZIKA
+11/05/2021;Male;79;Sevilla;ZIKA
+11/05/2021;Male;63;Sevilla;ZIKA
+11/05/2021;Male;29;Sevilla;ZIKA
+11/05/2021;Male;8;Sevilla;ZIKA
+11/05/2021;Male;19;Sevilla;ZIKA
+11/05/2021;Male;50;Sevilla;ZIKA
+11/05/2021;Female;22;Zaragoza;ZIKA
+11/05/2021;Female;28;Zaragoza;ZIKA
+11/05/2021;Male;60;Zaragoza;ZIKA
+11/05/2021;Female;31;Zaragoza;ZIKA
+11/05/2021;Female;43;Zaragoza;ZIKA
+12/05/2021;Female;17;Zaragoza;ZIKA
+12/05/2021;Male;14;Oviedo;ZIKA
+12/05/2021;Female;47;Oviedo;ZIKA
+12/05/2021;Female;6;Oviedo;ZIKA
+12/05/2021;Female;25;Oviedo;ZIKA
+12/05/2021;Female;21;Oviedo;ZIKA
+12/05/2021;Male;55;Oviedo;ZIKA
+12/05/2021;Male;88;Palma_Mallorca, Illes;ZIKA
+12/05/2021;Male;26;Palma_Mallorca, Illes;ZIKA
+12/05/2021;Male;74;Palma_Mallorca, Illes;ZIKA
+12/05/2021;Male;59;Palma_Mallorca, Illes;ZIKA
+12/05/2021;Male;65;Palma_Mallorca, Illes;ZIKA
+12/05/2021;Male;44;Palma_Mallorca, Illes;ZIKA
+12/05/2021;Female;30;Las_Palmas;ZIKA
+12/05/2021;Female;25;Las_Palmas;ZIKA
+12/05/2021;Male;67;Las_Palmas;ZIKA
+12/05/2021;Female;35;Las_Palmas;ZIKA
+12/05/2021;Male;9;Las_Palmas;ZIKA
+12/05/2021;Female;8;Las_Palmas;ZIKA
+12/05/2021;Female;24;Santander;ZIKA
+12/05/2021;Male;41;Santander;ZIKA
+13/05/2021;Male;67;Santander;ZIKA
+13/05/2021;Male;67;Santander;ZIKA
+13/05/2021;Male;32;Santander;ZIKA
+13/05/2021;Female;56;Santander;ZIKA
+13/05/2021;Male;9;Valladolid;ZIKA
+13/05/2021;Male;68;Valladolid;VIRUELA_MONO
+13/05/2021;Male;24;Valladolid;VIRUELA_MONO
+13/05/2021;Male;51;Valladolid;VIRUELA_MONO
+13/05/2021;Male;33;Valladolid;VIRUELA_MONO
+13/05/2021;Male;22;Valladolid;VIRUELA_MONO
+13/05/2021;Male;35;Toledo;VIRUELA_MONO
+13/05/2021;Female;25;Toledo;VIRUELA_MONO
+13/05/2021;Male;41;Toledo;VIRUELA_MONO
+13/05/2021;Female;52;Toledo;VIRUELA_MONO
+13/05/2021;Female;19;Toledo;VIRUELA_MONO
+13/05/2021;Female;61;Toledo;VIRUELA_MONO
+13/05/2021;Female;53;Barcelona;VIRUELA_MONO
+13/05/2021;Female;36;Barcelona;VIRUELA_MONO
+13/05/2021;Male;67;Barcelona;VIRUELA_MONO
+13/05/2021;Male;50;Barcelona;VIRUELA_MONO
